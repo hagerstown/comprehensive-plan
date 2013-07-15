@@ -1,0 +1,127 @@
+<div class="toc">
+  <h2>Table of Contents</h2>
+  <ul>
+
+    <li>
+    {% if page.url contains 'intro' %}
+      <a href="{{ site.baseurl }}/intro" class="active">Introduction</a>
+    {% else %}
+      <a href="{{ site.baseurl }}/intro">Introduction</a>
+    {% endif %}
+      <ul>
+      {% for p in site.pages %}
+        {% if p.path contains 'intro' %}
+          {% if p.path contains 'index' %}
+          {% else %}
+          <li>
+          {% if p.url == page.url %}
+            <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+          {% endif %}
+          </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </li>
+
+    <li>
+    {% if page.url contains 'quality' %}
+      <a href="{{ site.baseurl }}/quality-of-life" class="active">Quality of Life</a>
+    {% else %}
+      <a href="{{ site.baseurl }}/quality-of-life">Quality of Life</a>
+    {% endif %}
+      <ul>
+      {% for p in site.pages %}
+        {% if p.path contains 'quality' %}
+          {% if p.path contains 'index' %}
+          {% else %}
+          <li>
+          {% if p.url == page.url %}
+            <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+          {% endif %}
+          </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </li>
+
+    <li>
+    {% if page.url contains 'appearance' %}
+      <a href="{{ site.baseurl }}/appearance" class="active">Appearance &amp; Aesthetics</a>
+    {% else %}
+      <a href="{{ site.baseurl }}/appearance">Appearance &amp; Aesthetics</a>
+    {% endif %}
+      <ul>
+      {% for p in site.pages %}
+        {% if p.path contains 'appearance' %}
+          {% if p.path contains 'index' %}
+          {% else %}
+          <li>
+          {% if p.url == page.url %}
+            <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+          {% endif %}
+          </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </li>
+
+    <li>
+    {% if page.url contains 'economic' %}
+      <a href="{{ site.baseurl }}/economic-development" class="active">Economic Development</a>
+    {% else %}
+      <a href="{{ site.baseurl }}/economic-development">Economic Development</a>
+    {% endif %}
+      <ul>
+      {% for p in site.pages %}
+        {% if p.path contains 'economic' %}
+          {% if p.path contains 'index' %}
+          {% else %}
+          <li>
+          {% if p.url == page.url %}
+            <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+          {% endif %}
+          </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </li>
+
+    <li>
+    {% if page.url contains 'land' %}
+      <a href="{{ site.baseurl }}/land-use" class="active">Land Use</a>
+    {% else %}
+      <a href="{{ site.baseurl }}/land-use">Land Use</a>
+    {% endif %}
+      <ul>
+      {% for p in site.pages %}
+        {% if p.path contains 'land' %}
+          {% if p.path contains 'index' %}
+          {% else %}
+          <li>
+          {% if p.url == page.url %}
+            <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+          {% endif %}
+          </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </li>
+
+  </ul>
+
+</div>
