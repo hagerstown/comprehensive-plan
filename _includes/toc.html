@@ -5,6 +5,8 @@
     <li>
     {% if page.url contains 'intro' and page.url contains 'index' %}
       <a href="{{ site.baseurl }}/intro" class="active">Introduction</a>
+    {% else if page.url contains 'intro' %}
+      <a href="{{ site.baseurl }}/intro" class="child-active">Introduction</a>
     {% else %}
       <a href="{{ site.baseurl }}/intro">Introduction</a>
     {% endif %}
@@ -29,8 +31,10 @@
     </li>
 
     <li>
-    {% if page.url contains 'quality' %}
+    {% if page.url contains 'quality' and page.url contains 'index' %}
       <a href="{{ site.baseurl }}/quality-of-life" class="active">Quality of Life</a>
+    {% else if page.url contains 'quality' %}
+      <a href="{{ site.baseurl }}/quality-of-life" class="child-active">Quality of Life</a>
     {% else %}
       <a href="{{ site.baseurl }}/quality-of-life">Quality of Life</a>
     {% endif %}
@@ -53,10 +57,12 @@
     </li>
 
     <li>
-    {% if page.url contains 'appearance' %}
-      <a href="{{ site.baseurl }}/appearance" class="active">Appearance &amp; Aesthetics</a>
+    {% if page.url contains 'appearance' and page.url contains 'index' %}
+      <a href="{{ site.baseurl }}/appearance" class="active">Appearance</a>
+    {% else if page.url contains 'appearance' %}
+      <a href="{{ site.baseurl }}/appearance" class="child-active">Appearance</a>
     {% else %}
-      <a href="{{ site.baseurl }}/appearance">Appearance &amp; Aesthetics</a>
+      <a href="{{ site.baseurl }}/appearance">Appearance</a>
     {% endif %}
       <ul>
       {% for p in site.pages %}
@@ -77,10 +83,12 @@
     </li>
 
     <li>
-    {% if page.url contains 'economic' %}
-      <a href="{{ site.baseurl }}/economic-development" class="active">Economic Development</a>
+    {% if page.url contains 'economic' and page.url contains 'index' %}
+      <a href="{{ site.baseurl }}/economic-development" class="active">Economy</a>
+    {% else if page.url contains 'economic' %}
+      <a href="{{ site.baseurl }}/economic-development" class="child-active">Economy</a>
     {% else %}
-      <a href="{{ site.baseurl }}/economic-development">Economic Development</a>
+      <a href="{{ site.baseurl }}/economic-development">Economy</a>
     {% endif %}
       <ul>
       {% for p in site.pages %}
@@ -101,8 +109,10 @@
     </li>
 
     <li>
-    {% if page.url contains 'land' %}
+    {% if page.url contains 'land' and page.url contains 'index' %}
       <a href="{{ site.baseurl }}/land-use" class="active">Land Use</a>
+    {% else if page.url contains 'land' %}
+      <a href="{{ site.baseurl }}/land-use" class="child-active">Land Use</a>
     {% else %}
       <a href="{{ site.baseurl }}/land-use">Land Use</a>
     {% endif %}
