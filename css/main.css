@@ -470,6 +470,15 @@ hr {
   margin: 0 0 20px;
 }
 
+sub a, sup a, .footnote {
+  border: none;
+}
+
+.footnote {
+  font-size: 75%;
+  margin-left: 5px;
+}
+
 a {
   text-decoration: none;
   border-bottom: 1px solid #dadada;
@@ -622,31 +631,71 @@ footer {
   text-align: right;
 }
 
+
+/**
+ * Helpers
+ */
+
+.proof {
+  background: yellow;
+  color: black;
+}
+
 /**
  * Link styles
  */
 
-.intro a:hover, .intro header:hover a, .intro .active, .intro .active a {
+.intro a:hover,
+.intro header:hover a,
+.intro .active,
+.intro .active a,
+.intro .footnote,
+.intro sub a,
+.intro sup a {
   color: #39c;
   border-bottom-color: rgba(51, 153, 204, 0.1);
 }
 
-.quality a:hover, .quality header:hover a, .quality .active, .quality .active a {
+.quality a:hover,
+.quality header:hover a,
+.quality .active,
+.quality .active a,
+.quality .footnote,
+.quality sub a,
+.quality sup a {
   color: #f46801;
   border-bottom-color: rgba(244, 104, 1, 0.1);
 }
 
-.appearance a:hover, .appearance header:hover a, .appearance .active, .appearance .active a {
+.appearance a:hover,
+.appearance header:hover a,
+.appearance .active,
+.appearance .active a,
+.appearance .footnote,
+.appearance sub a,
+.appearance sup a {
   color: #6f2ea2;
   border-bottom-color: rgba(111, 46, 162, 0.1);
 }
 
-.economy a:hover, .economy header:hover a, .economy .active, .economy .active a {
+.economy a:hover,
+.economy header:hover a,
+.economy .active,
+.economy .active a,
+.economy .footnote,
+.economy sub a,
+.economy sup a {
   color: #f3b600;
   border-bottom-color: rgba(243, 182, 0, 0.2);
 }
 
-.land a:hover, .land header:hover a, .land .active, .land .active a {
+.land a:hover,
+.land header:hover a,
+.land .active,
+.land .active a,
+.land .footnote,
+.land sub a,
+.land sup a {
   color: #09a15d;
   border-bottom-color: rgba(9, 161, 93, 0.1);
 }
@@ -684,7 +733,7 @@ footer {
 
 @media screen and (max-width: 480px) {
   body {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   header .wrapper, #main .wrapper {
