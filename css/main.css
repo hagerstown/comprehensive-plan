@@ -414,13 +414,19 @@ html, body {
   padding: 0;
 }
 
-body {
-  font:20px/1.6 "Gentium Basic", "Georgia Pro", Georgia, serif;
+html {
   background: #f2f2f2;
   color: #333;
 }
 
-h1, h2, h3, h4, h5, h6, header, footer, table, .controls {
+body, aside:before, .aside:before {
+  font:20px/1.6 "Gentium Basic", "Georgia Pro", Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+header, footer, table,
+.controls, .aside, aside,
+.ph, .note {
   font-family: "Merriweather Sans", sans-serif;
 }
 
@@ -475,6 +481,45 @@ sub a, sup a, .footnote {
 .footnote {
   font-size: 75%;
   margin-left: 5px;
+}
+
+.aside, aside {
+  position: absolute;
+  right: -359px;
+  padding: 2em;
+  width: 300px;
+  font-size: 0.7em;;
+  z-index: 1;
+  -webkit-box-shadow: -3px 3px 0 rgba(0,0,0,0.2);
+  -moz-box-shadow: -3px 3px 0 rgba(0,0,0,0.2);
+  box-shadow: -3px 3px 0 rgba(0,0,0,0.2);
+}
+
+aside:hover, .aside:hover {
+  right: -3px;
+}
+
+aside:hover:before, .aside:hover:before {
+  opacity: 0;
+}
+
+aside:before, .aside:before {
+  content: "i";
+  display: block;
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  left: -60px;
+  top: 50%;
+  margin-top: -15px;
+  background: #ddd;
+  color: white;
+  text-align: center;
+  line-height: 32px;
+  font-style: italic;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
 }
 
 a {
@@ -536,7 +581,7 @@ header h2 {
 
 .section {
   border-bottom: 3px solid #eee;
-  padding: .5em;
+  padding: .5em 0;
 }
 
 .section:last-child {
@@ -584,7 +629,7 @@ header h2 {
 }
 
 .active:after {
-  right: -50px;
+  right: -42px;
 }
 
 .twirl {
@@ -607,13 +652,15 @@ header h2 {
 }
 
 #main {
+  position: relative;
   float: right;
   width: 70%;
   background: white;
+  overflow: hidden;
 }
 
 #main .wrapper {
-  padding: 4.3em 15% 3em 3em;
+  padding: 4.5em 15% 3em 3em;
 }
 
 #main h2:first-child {
@@ -670,6 +717,8 @@ header h2 {
 }
 
 .prev {
+  -webkit-box-shadow: inset -1px 0 0 #eee;
+  -moz-box-shadow: inset -1px 0 0 #eee;
   box-shadow: inset -1px 0 0 #eee;
   text-indent: -27px;
 }
@@ -704,11 +753,6 @@ footer {
  * Helpers
  */
 
-.proof {
-  background: yellow;
-  color: black;
-}
-
 .cf:before,
 .cf:after {
     content: " "; /* 1 */
@@ -717,6 +761,82 @@ footer {
 
 .cf:after {
     clear: both;
+}
+
+.proof {
+  background: yellow;
+  color: black;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.ph, .note {
+  font-size: 75%;
+  margin: 1em 0;
+}
+
+.ph {
+  position: relative;
+  padding: 10em;
+  text-align: center;
+}
+
+.ph:before, .note:before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 0 .5em;
+  top: 5px;
+  left: 5px;
+  font-size: 75%;
+}
+
+.ph-map {
+  background: #d1ebd1;
+  color: #93b393;
+}
+
+.ph-map:before {
+  content: "map";
+}
+
+.ph-image {
+  background: #eee;
+  color: #aaa;
+}
+
+.ph-image:before {
+  content: "image";
+}
+
+.ph-chart {
+  background: #dff0f8;
+  color: #90a0a8;
+}
+
+.ph-chart:before {
+  content: "chart";
+}
+
+.note, .aside, aside {
+  background: #fffdcf;
+  color: #b4b28b;
+}
+
+.note {
+  position: relative;
+  display: inline-block;
+  padding: 3em;
+  border-bottom: 3px solid #f3f1c6;
+}
+
+.note:before {
+  content: "note";
+  background: white;
 }
 
 /**
@@ -794,6 +914,7 @@ footer {
     width: 100%;
     position: static;
     text-align: center;
+    overflow: auto;
   }
 
   #main {
@@ -807,6 +928,10 @@ footer {
 
   .active:after {
     display: none;
+  }
+
+  .aside, aside {
+    position: static;
   }
 }
 
@@ -828,5 +953,9 @@ footer {
     float: none;
     padding-bottom: 1em;
     border-bottom: 3px solid #eee;
+  }
+
+  .aside, aside {
+    width: auto;
   }
 }
