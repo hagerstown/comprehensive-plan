@@ -1,6 +1,6 @@
 ---
 layout: default
-class: intro
+class: intro index
 title: Welcome
 ---
 

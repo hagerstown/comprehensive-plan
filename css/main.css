@@ -547,20 +547,19 @@ header h2 {
   display: none;
 }
 
+.section-active > a {
+  font-weight: 700;
+}
+
 .section-active .subsections {
   display: block;
 }
 
 .subsection a {
-  /*margin-right: 10px;*/
   font-size: .857142857em;
   font-style: italic;
   color: #bbb;
 }
-
-/*.section > a {*/
-  /*text-transform: uppercase;*/
-/*}*/
 
 .toc a {
   border: none;
@@ -570,7 +569,7 @@ header h2 {
   position: relative;
 }
 
-.active:after, .section > a:before {
+.active:after, .twirl {
   content: "";
   display: block;
   position: absolute;
@@ -588,14 +587,14 @@ header h2 {
   right: -50px;
 }
 
-.section > a:before {
+.twirl {
   left: -14px;
-  border-left-width: 9px;
   border-right-color: transparent;
+  border-left-width: 9px;
   border-left-color: #ddd;
 }
 
-.section-active > a:before {
+.twirl.open {
   border-left-width: 5px;
   border-top-width: 9px;
   border-left-color: transparent;
@@ -653,6 +652,16 @@ footer {
   color: black;
 }
 
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
 /**
  * Link styles
  */
@@ -662,6 +671,7 @@ footer {
 .intro .active,
 .intro .active a,
 .intro .footnote,
+.index .title a,
 .intro sub a,
 .intro sup a {
   color: #39c;
