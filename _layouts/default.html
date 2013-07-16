@@ -11,20 +11,27 @@
 
 <script src="{{ site.baseurl }}/js/modernizr.min.js"></script>
 </head>
-<body>
+<body class="{{ page.class }}">
   <header>
-    <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-    {% include toc.html %}
+    <div class="wrapper">
+      <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+      <h2>Hagerstown, IN</h2>
+      {% include toc.html %}
+    </div>
   </header>
 
-  <div id="main">
-    <h2>{{ page.title }}</h2>
-    {{ content }}
-  </div>
-
-  <footer>
-    I'm a footer.
-  </footer>
+  <article id="main">
+    <div class="wrapper">
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </div>
+    <footer>
+      <div class="wrapper">
+        <p class="updated">Last updated <span>{{ site.time | date: "%m/%d/%y" }}</span> at <span>{{ site.time | date: "%I:%M%p" }}</span></p>
+        <p class="copyright">Copyright © {{ site.time | date: "%Y" }} Hagerstown, IN</p>
+      </div>
+    </footer>
+  </article>
 
 <script src="{{ site.baseurl }}/js/scale.fix.js"></script>
 </body>

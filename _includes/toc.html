@@ -1,9 +1,9 @@
 <div class="toc">
-  <h2>Table of Contents</h2>
+  <h3>Table of Contents</h3>
   <ul>
 
     <li>
-    {% if page.url contains 'intro' %}
+    {% if page.url contains 'intro' and page.url contains 'index' %}
       <a href="{{ site.baseurl }}/intro" class="active">Introduction</a>
     {% else %}
       <a href="{{ site.baseurl }}/intro">Introduction</a>
@@ -13,13 +13,15 @@
         {% if p.path contains 'intro' %}
           {% if p.path contains 'index' %}
           {% else %}
-          <li>
           {% if p.url == page.url %}
-            <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
-          {% else %}
+          <li class="active">
             <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
-          {% endif %}
           </li>
+          {% else %}
+          <li>
+            <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+          </li>
+          {% endif %}
           {% endif %}
         {% endif %}
       {% endfor %}
