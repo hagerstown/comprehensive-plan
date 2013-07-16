@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gentium+Basic:400,700,400italic|Merriweather+Sans:300,700);
+@import url(http://fonts.googleapis.com/css?family=Gentium+Basic:400,700,400italic|Merriweather+Sans:300,700,300italic);
 
 /**
  * Colors
@@ -422,7 +422,7 @@ body {
   color: #333;
 }
 
-h1, h2, h3, h4, h5, h6, footer, table {
+h1, h2, h3, h4, h5, h6, header, footer, table {
   font-family: "Merriweather Sans", sans-serif;
 }
 
@@ -536,22 +536,33 @@ header h2 {
   padding: 0;
 }
 
-.toc li ul {
-  font-style: italic;
-  padding-bottom: .5em;
-  margin-bottom: .5em;
-  border-bottom: 1px solid #eee;
+.section {
+  border-bottom: 3px solid #eee;
+  padding: .5em;
 }
 
-.toc li:last-child ul {
+.section:last-child {
   border: none;
 }
 
-.toc li ul a {
-  /*color: #bbb;*/
-  opacity: 0.5;
-  margin-right: 10px;
+.subsections {
+  display: none;
 }
+
+.section-active .subsections {
+  display: block;
+}
+
+.subsection a {
+  /*margin-right: 10px;*/
+  font-size: .857142857em;
+  font-style: italic;
+  color: #bbb;
+}
+
+/*.section > a {*/
+  /*text-transform: uppercase;*/
+/*}*/
 
 .toc a {
   border: none;
@@ -561,7 +572,7 @@ header h2 {
   position: relative;
 }
 
-.active:after {
+.active:after, .section > a:before {
   content: "";
   display: block;
   position: absolute;
@@ -576,22 +587,22 @@ header h2 {
 }
 
 .active:after {
-  right: -42px;
+  right: -50px;
 }
 
-/*.toc > ul > li > a:before {*/
-  /*left: -10px;*/
-  /*border-right-color: transparent;*/
-  /*border-left-color: #ddd;*/
-/*}*/
+.section > a:before {
+  left: -14px;
+  border-left-width: 9px;
+  border-right-color: transparent;
+  border-left-color: #ddd;
+}
 
-/*.toc > ul > li > .child-active:before {*/
-  /*border-left-color: transparent;*/
-  /*border-top-color: #ddd;*/
-/*}*/
-
-a.active:after {
-  right: -43px;
+.section-active > a:before {
+  border-left-width: 5px;
+  border-top-width: 9px;
+  border-left-color: transparent;
+  border-top-color: #ddd;
+  left: -15px;
 }
 
 .toc a:hover {
@@ -700,7 +711,7 @@ footer {
   border-bottom-color: rgba(9, 161, 93, 0.1);
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 1024px) {
   header {
     width: 27%;
   }

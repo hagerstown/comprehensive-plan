@@ -1,48 +1,48 @@
 <div class="toc">
   <h3>Table of Contents</h3>
-  <ul>
+  <ul class="sections">
 
-    <li>
-    {% if page.url contains 'intro' and page.url contains 'index' %}
-      <a href="{{ site.baseurl }}/intro" class="active">Introduction</a>
-    {% else if page.url contains 'intro' %}
-      <a href="{{ site.baseurl }}/intro" class="child-active">Introduction</a>
+    {% if page.url contains 'intro' %}
+    <li class="section section-active">
     {% else %}
-      <a href="{{ site.baseurl }}/intro">Introduction</a>
+    <li class="section">
     {% endif %}
-      <ul>
+      {% if page.url contains 'intro' and page.url contains 'index' %}
+      <a href="{{ site.baseurl }}/intro" class="active">Introduction</a>
+      {% else %}
+      <a href="{{ site.baseurl }}/intro">Introduction</a>
+      {% endif %}
+      <ul class="subsections">
       {% for p in site.pages %}
         {% if p.path contains 'intro' %}
-          {% if p.path contains 'index' %}
-          {% else %}
+        {% unless p.path contains 'index' %}
+          <li class="subsection">
           {% if p.url == page.url %}
-          <li class="active">
-            <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
-          </li>
+            <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
           {% else %}
-          <li>
             <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+          {% endif %}
           </li>
-          {% endif %}
-          {% endif %}
+        {% endunless %}
         {% endif %}
       {% endfor %}
       </ul>
     </li>
 
-    <li>
-    {% if page.url contains 'quality' and page.url contains 'index' %}
-      <a href="{{ site.baseurl }}/quality-of-life" class="active">Quality of Life</a>
-    {% else if page.url contains 'quality' %}
-      <a href="{{ site.baseurl }}/quality-of-life" class="child-active">Quality of Life</a>
+    {% if page.url contains 'quality' %}
+    <li class="section section-active">
     {% else %}
-      <a href="{{ site.baseurl }}/quality-of-life">Quality of Life</a>
+    <li class="section">
     {% endif %}
-      <ul>
+      {% if page.url contains 'quality' and page.url contains 'index' %}
+      <a href="{{ site.baseurl }}/quality-of-life" class="active">Quality of Life</a>
+      {% else %}
+      <a href="{{ site.baseurl }}/quality-of-life">Quality of Life</a>
+      {% endif %}
+      <ul class="subsections">
       {% for p in site.pages %}
         {% if p.path contains 'quality' %}
-          {% if p.path contains 'index' %}
-          {% else %}
+        {% unless p.path contains 'index' %}
           <li>
           {% if p.url == page.url %}
             <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
@@ -50,25 +50,26 @@
             <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
           {% endif %}
           </li>
-          {% endif %}
+        {% endunless %}
         {% endif %}
       {% endfor %}
       </ul>
     </li>
 
-    <li>
-    {% if page.url contains 'appearance' and page.url contains 'index' %}
-      <a href="{{ site.baseurl }}/appearance" class="active">Appearance</a>
-    {% else if page.url contains 'appearance' %}
-      <a href="{{ site.baseurl }}/appearance" class="child-active">Appearance</a>
+    {% if page.url contains 'appearance' %}
+    <li class="section section-active">
     {% else %}
-      <a href="{{ site.baseurl }}/appearance">Appearance</a>
+    <li class="section">
     {% endif %}
-      <ul>
+      {% if page.url contains 'appearance' and page.url contains 'index' %}
+      <a href="{{ site.baseurl }}/appearance" class="active">Appearance</a>
+      {% else %}
+      <a href="{{ site.baseurl }}/appearance">Appearance</a>
+      {% endif %}
+      <ul class="subsections">
       {% for p in site.pages %}
         {% if p.path contains 'appearance' %}
-          {% if p.path contains 'index' %}
-          {% else %}
+        {% unless p.path contains 'index' %}
           <li>
           {% if p.url == page.url %}
             <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
@@ -76,25 +77,26 @@
             <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
           {% endif %}
           </li>
-          {% endif %}
+        {% endunless %}
         {% endif %}
       {% endfor %}
       </ul>
     </li>
 
-    <li>
-    {% if page.url contains 'economic' and page.url contains 'index' %}
-      <a href="{{ site.baseurl }}/economic-development" class="active">Economy</a>
-    {% else if page.url contains 'economic' %}
-      <a href="{{ site.baseurl }}/economic-development" class="child-active">Economy</a>
+    {% if page.url contains 'economic' %}
+    <li class="section section-active">
     {% else %}
-      <a href="{{ site.baseurl }}/economic-development">Economy</a>
+    <li class="section">
     {% endif %}
-      <ul>
+      {% if page.url contains 'economic' and page.url contains 'index' %}
+      <a href="{{ site.baseurl }}/economic-development" class="active">Economy</a>
+      {% else %}
+      <a href="{{ site.baseurl }}/economic-development">Economy</a>
+      {% endif %}
+      <ul class="subsections">
       {% for p in site.pages %}
         {% if p.path contains 'economic' %}
-          {% if p.path contains 'index' %}
-          {% else %}
+        {% unless p.path contains 'index' %}
           <li>
           {% if p.url == page.url %}
             <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
@@ -102,25 +104,26 @@
             <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
           {% endif %}
           </li>
-          {% endif %}
+        {% endunless %}
         {% endif %}
       {% endfor %}
       </ul>
     </li>
 
-    <li>
-    {% if page.url contains 'land' and page.url contains 'index' %}
-      <a href="{{ site.baseurl }}/land-use" class="active">Land Use</a>
-    {% else if page.url contains 'land' %}
-      <a href="{{ site.baseurl }}/land-use" class="child-active">Land Use</a>
+    {% if page.url contains 'land' %}
+    <li class="section section-active">
     {% else %}
-      <a href="{{ site.baseurl }}/land-use">Land Use</a>
+    <li class="section">
     {% endif %}
-      <ul>
+      {% if page.url contains 'land' and page.url contains 'index' %}
+      <a href="{{ site.baseurl }}/land-use" class="active">Land Use</a>
+      {% else %}
+      <a href="{{ site.baseurl }}/land-use">Land Use</a>
+      {% endif %}
+      <ul class="subsections">
       {% for p in site.pages %}
         {% if p.path contains 'land' %}
-          {% if p.path contains 'index' %}
-          {% else %}
+        {% unless p.path contains 'index' %}
           <li>
           {% if p.url == page.url %}
             <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
@@ -128,7 +131,7 @@
             <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
           {% endif %}
           </li>
-          {% endif %}
+        {% endunless %}
         {% endif %}
       {% endfor %}
       </ul>
