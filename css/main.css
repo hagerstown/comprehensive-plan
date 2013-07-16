@@ -420,7 +420,7 @@ body {
   color: #333;
 }
 
-h1, h2, h3, h4, h5, h6, header, footer, table {
+h1, h2, h3, h4, h5, h6, header, footer, table, .controls {
   font-family: "Merriweather Sans", sans-serif;
 }
 
@@ -620,6 +620,63 @@ header h2 {
   margin-top: 0;
 }
 
+.controls a {
+  position: relative;
+  display: block;
+  border: none;
+  width: 50%;
+  float: left;
+  padding: 2em 0;
+  background: #f9f9f9;
+  text-align: center;
+  font-weight: 700;
+  color: #555;
+  overflow: hidden;
+}
+
+.controls span {
+  position: absolute;
+  display: block;
+  bottom: -16px;
+  left: 0;
+  width: 100%;
+  font-weight: 300;
+  font-size: 12px;
+  font-style: italic;
+  color: #ccc;
+  text-indent: 0;
+  opacity: 0;
+}
+
+.controls span, .controls a.over span {
+  -webkit-transition: bottom 0.1s, opacity 0.1s ease-in-out;
+  -moz-transition: bottom 0.1s, opacity 0.1s ease-in-out;
+  transition: bottom 0.1s, opacity 0.1s ease-in-out;
+}
+
+.controls a.over span {
+  bottom: 24px;
+  opacity: 1;
+}
+
+.controls a:hover {
+  background: #fbfbfb;
+}
+
+.controls .disabled, .controls .disabled:hover {
+  background: #fbfbfb;
+  color: #eee;
+  cursor: default;
+}
+
+.prev {
+  box-shadow: inset -1px 0 0 #eee;
+  text-indent: -27px;
+}
+
+.next {
+  text-indent: 25px;
+}
 
 footer {
   /*background: #f9f9f9;*/

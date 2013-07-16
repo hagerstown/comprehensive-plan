@@ -31,6 +31,12 @@
       <h1>{{ page.title }}</h1>
       {{ content }}
     </div>
+
+    <div class="controls cf">
+      <a href="#" class="prev">← Previous<span></span></a>
+      <a href="#" class="next">Next →<span></span></a>
+    </div>
+
     <footer>
       <div class="wrapper">
         <p class="updated">Last updated <span>{{ site.time | date: "%m/%d/%y" }}</span> at <span>{{ site.time | date: "%I:%M%p" }}</span></p>
