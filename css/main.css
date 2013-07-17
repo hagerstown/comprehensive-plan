@@ -626,7 +626,7 @@ header h3 {
 }
 
 .active:after {
-  right: -42px;
+  right: -43px;
 }
 
 .twirl {
@@ -660,7 +660,7 @@ header a:hover {
   margin: 0;
   border: 1px solid #f2f2f2;
   border-left: none;
-  background: transparent url(../img/search.png) 95% center no-repeat;
+  background: transparent url(../img/search.png) right center no-repeat;
   text-align: right;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -976,6 +976,20 @@ footer {
   .aside, aside {
     position: static;
   }
+
+  #search-query {
+    background-position: center center;
+    text-align: left;
+  }
+
+  #search-query.focused, #search-query.filled {
+    border-left: 1px solid #74b9ef;
+  }
+
+  .clear {
+    right: 1px;
+    left: inherit;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -1006,9 +1020,9 @@ footer {
 @media (-webkit-min-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio: 2/1),(min-resolution: 144dpi) {
   #search-query {
     background-image: url(../img/search@2x.png);
-    -webkit-background-size: 21px 21px;
-    -moz-background-size: 21px 21px;
-    background-size: 21px 21px;
+    -webkit-background-size: 32px 21px;
+    -moz-background-size: 32px 21px;
+    background-size: 32px 21px;
   }
 
   .clear {
