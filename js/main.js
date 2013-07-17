@@ -106,10 +106,10 @@ function getNext($cur) {
 
 // Search
 $('#search-query').focusin(function() {
-  $(this).addClass('focused');
+  $(this).addClass('focused').attr('placeholder', 'Search');
 }).focusout(function() {
   if ($(this).val()) return;
-  $(this).removeClass('focused');
+  $(this).removeClass('focused').removeAttr('placeholder');
 }).keyup(function() {
   var $this = $(this);
 
