@@ -680,11 +680,11 @@ header a:hover {
 .clear {
   display: none;
   position: absolute;
-  top: 10px;
-  left: 9px;
-  width: 17px;
-  height: 17px;
-  background: url(../img/clear.png) no-repeat;
+  top: 1px;
+  left: 0;
+  bottom: 1px;
+  width: 34px;
+  background: #fafafa url(../img/clear.png) center center no-repeat;
   text-indent: 999em;
   overflow: hidden;
   cursor: pointer;
