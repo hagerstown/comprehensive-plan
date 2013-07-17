@@ -43,7 +43,7 @@
       {% for p in site.pages %}
         {% if p.path contains 'quality' %}
         {% unless p.path contains 'index' %}
-          <li>
+          <li class="subsection">
           {% if p.url == page.url %}
             <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
           {% else %}
@@ -70,7 +70,7 @@
       {% for p in site.pages %}
         {% if p.path contains 'appearance' %}
         {% unless p.path contains 'index' %}
-          <li>
+          <li class="subsection">
           {% if p.url == page.url %}
             <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
           {% else %}
@@ -97,7 +97,7 @@
       {% for p in site.pages %}
         {% if p.path contains 'economic' %}
         {% unless p.path contains 'index' %}
-          <li>
+          <li class="subsection">
           {% if p.url == page.url %}
             <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
           {% else %}
@@ -124,7 +124,7 @@
       {% for p in site.pages %}
         {% if p.path contains 'land' %}
         {% unless p.path contains 'index' %}
-          <li>
+          <li class="subsection">
           {% if p.url == page.url %}
             <a href="{{ site.baseurl }}{{ p.url }}" class="active">{{ p.title }}</a>
           {% else %}
