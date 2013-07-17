@@ -16,17 +16,23 @@
 <!--[if lt IE 9]>
 <script src="{{ site.baseurl }}/js/lib/modernizr.min.js"></script>
 <![endif]-->
+
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
+    <li class="result">
+      <a href="{{url}}">{{title}}</a>
+    </li>
+  {{/entries}}
+</script>
+{% endraw %}
 </head>
 <body class="{{ page.class }}">
   <header>
     <div class="wrapper">
       <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
       <h2>Hagerstown, IN</h2>
-
-      <form>
-        <input type="search" name="q" id="search" placeholder="Search">
-      </form>
-
+      {% include search.html %}
       {% include toc.html %}
     </div>
   </header>
@@ -52,9 +58,8 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="{{ site.baseurl }}/js/lib/jquery-1.10.2.min.js"><\/script>')</script>
-
+<script src="{{ site.baseurl }}/js/lib/search.min.js"></script>
 <script src="{{ site.baseurl }}/js/main.js"></script>
-<script src="http://js.searchpath.io/v1/peteschaffner.github.io?verify=67AE4BCBB8&id=search"></script>
 
 <!-- Google Analytics -->
 <!-- TODO: change UA-XXXXX-X to be your site's ID. -->

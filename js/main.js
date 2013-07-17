@@ -104,4 +104,35 @@ function getNext($cur) {
   }
 }
 
+// Search
+$('#search-query').focusin(function() {
+  $('.toc').hide();
+  $(this).addClass('focused');
+}).focusout(function() {
+  if ($(this).val()) return;
+  $('.toc').show();
+  $(this).removeClass('focused');
+}).keyup(function() {
+  var $this = $(this);
+
+  if ($this.val()) {
+    $this.addClass('filled');
+  } else {
+    $this.removeClass('filled');
+  }
+});
+
+$('.clear').click(function() {
+  $('#search-query').val('')
+    .removeClass('filled')
+    .focus();
+});
+
+$('#search-query').lunrSearch({
+  indexUrl: '/search.json',
+  results:  '#search-results',
+  entries:  '.results',
+  template: '#search-results-template'
+});
+
 });
