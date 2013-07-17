@@ -123,6 +123,7 @@ $('#search-query').focusin(function() {
 });
 
 $('.clear').click(function() {
+  $('#search-results').hide();
   $('#search-query').val('')
     .keyup()
     .removeClass('filled')
