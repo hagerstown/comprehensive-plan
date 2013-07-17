@@ -106,24 +106,25 @@ function getNext($cur) {
 
 // Search
 $('#search-query').focusin(function() {
-  $('.toc').hide();
   $(this).addClass('focused');
 }).focusout(function() {
   if ($(this).val()) return;
-  $('.toc').show();
   $(this).removeClass('focused');
 }).keyup(function() {
   var $this = $(this);
 
   if ($this.val()) {
+    $('.toc').hide();
     $this.addClass('filled');
   } else {
+    $('.toc').show();
     $this.removeClass('filled');
   }
 });
 
 $('.clear').click(function() {
   $('#search-query').val('')
+    .keyup()
     .removeClass('filled')
     .focus();
 });

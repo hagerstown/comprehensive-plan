@@ -674,7 +674,6 @@ header a:hover {
 #search-query:focus, #search-query.focused {
   outline: none;
   border-color: #74b9ef;
-  background-image: none;
 }
 
 .clear {
@@ -688,6 +687,10 @@ header a:hover {
   text-indent: 999em;
   overflow: hidden;
   cursor: pointer;
+}
+
+#search-query.filled {
+  background-image: none;
 }
 
 .filled + .clear {
