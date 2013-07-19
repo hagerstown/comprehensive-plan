@@ -1,8 +1,4 @@
----
-layout: default
-class: intro
-title: Demographic Profile
----
+# Demographic Profile
 
 ## Population
 

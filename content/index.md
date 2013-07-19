@@ -1,8 +1,4 @@
----
-layout: default
-class: intro index
-title: Welcome
----
+# Welcome!
 
 Some flowery welcome message for our beloved readers.
 

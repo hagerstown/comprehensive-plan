@@ -1,8 +1,4 @@
----
-layout: default
-class: intro
-title: Area & Context
----
+# Area & Context
 
 Hagerstown is located in Jefferson Township in western Wayne County. The town is located approximately thirteen miles west of Richmond and ten miles east of New Castle. The community is located near the crossroads of State Road 38 and State Road 1, approximately five miles north of Interstate 70. Interstate 70 is the major east-west route from Ohio to Colorado, passing through Indianapolis.
 

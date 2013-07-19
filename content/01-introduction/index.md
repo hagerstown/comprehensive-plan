@@ -1,8 +1,4 @@
----
-layout: default
-class: intro
-title: Introduction
----
+# Introduction
 
 The *Hagerstown Comprehensive Plan* serves as a general framework for guiding the future development of Hagerstown. These studies outline a series of goals and recommendations for several different aspects of planning and development. Following each recommendation are strategic planning suggestions for implementing and benchmarking each recommendation.
 

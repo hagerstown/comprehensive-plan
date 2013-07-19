@@ -1,8 +1,4 @@
----
-layout: default
-class: intro
-title: History
----
+# History
 
 The first European settler to the Nettle Creek area was Sam Baldridge in 1814. Following his arrival, several families began to settle in the area. A church, Salem Baptist, was established in 1816, and the Church of the Brethren was organized nine years later. The first school in the area was organized northeast of what is now Hagerstown in 1828. A post office was established at Nettle Creek in 1829.
 

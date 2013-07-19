@@ -1,8 +1,4 @@
----
-layout: default
-class: intro
-title: Character
----
+# Character
 
 <div class="ph ph-image">The gateway to Hagerstown on SR38 welcomes residents and visitors to the community.</div>
 
