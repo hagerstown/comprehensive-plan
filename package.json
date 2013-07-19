@@ -1,0 +1,10 @@
+{
+  "name": "comprehensive-plan",
+  "version": "0.0.1",
+  "description": "Hagerstown, IN Comprehensive Plan website",
+  "private": true,
+  "dependencies": {
+    "marked": "~0.2.9",
+    "ejs": "~0.8.4"
+  }
+}
