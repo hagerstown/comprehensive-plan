@@ -36,6 +36,6 @@ fs.copy('./public/', './build/', function(err) {
     
     page.filename = layoutPath;
     html = ejs.render(layoutStr, page);
-    fs.outputFile('./build' + page.url + '/index.html', html);
+    fs.outputFile('./build/' + page.url + '/index.html', html);
   }
 });

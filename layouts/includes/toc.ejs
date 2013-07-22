@@ -2,12 +2,12 @@
   <ul class="sections">
   <% sections.forEach(function(s) { %>
     <li class="section<% if (s.current) { %> section-active<% } %>">
-      <a href="<%= s.url %>"<% if (title === s.title) { %> class="active"<% } %>><span class="twirl"></span><%= s.title %></a>
+      <a href="/<%= s.url %>"<% if (title === s.title) { %> class="active"<% } %>><span class="twirl"></span><%= s.title %></a>
     <% if (s.pages.length) { %>
       <ul class="subsections">
       <% s.pages.forEach(function(p) { %>
         <li class="subsection">
-          <a href="<%= p.url %>"<% if (p.current) { %> class="active"<% } %>><%= p.title %></a>
+          <a href="/<%= p.url %>"<% if (p.current) { %> class="active"<% } %>><%= p.title %></a>
         </li>
       <% }) %>
       </ul>
