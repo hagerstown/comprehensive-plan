@@ -18,4 +18,4 @@
 <![endif]-->
 </head>
 
-<body<% if (section) { %> class="<%= section %>"<% } %>>
+<body<% if (section) { %> class="<%=: section | downcase | replace:/\s/g,'-' %>"<% } %>>
