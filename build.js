@@ -7,9 +7,6 @@ var fs = require('fs-extra')
   , ejs = require('./lib/ejs');
   
 
-// Remove previous build
-fs.removeSync('./build');
-
 // Copy over contents of `public/`
 fs.copy('./public/', './build/', function(err) {
   if (err) console.error(err);
