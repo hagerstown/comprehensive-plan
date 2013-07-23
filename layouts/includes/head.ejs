@@ -16,6 +16,14 @@
 <!--[if lt IE 9]>
 <script src="/js/lib/modernizr.min.js"></script>
 <![endif]-->
+
+<script id="search-results-template" type="text/mustache">
+  {{#pages}}
+    <li data-page-id="{{id}}" class="result">
+      <a href="/{{url}}">{{title}}</a>
+    </li>
+  {{/pages}}
+</script>
 </head>
 
 <body<% if (section) { %> class="<%=: section | downcase | replace:/\s/g,'-' %>"<% } %>>

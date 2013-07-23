@@ -30,23 +30,44 @@ fs.copy('./public/', './build/', function(err) {
   // Create lunr index for site-wide search
   var index = lunr(function() {
     this.ref('id');
-    this.field('title');
+    this.field('title', {boost: 10});
     this.field('body');
   });
   
+  // Cleanup page array for lunr
   var pages = site.pages.map(function(page) {
     return {
       id: page.id,
       title: page.title,
-      body: page.body
+      body: page.body.replace(/<[^>]+>/g, '')
     };
   });
   
+  // Add our page data to the lunr index
   pages.forEach(function(page) {
     index.add(page);
   });
   
-  fs.outputFile('./build/index.json', JSON.stringify(index), function (err) {
-    if (err) throw err;
+  // Cleanup page data for templates
+  var siteData = site.pages.map(function(page) {
+    return {
+      id: page.id,
+      title: page.title,
+      url: page.url
+    };
   });
+  
+  // Write lunr index json
+  fs.outputFile('./build/site-index.json',
+    JSON.stringify(index),
+    function(err) {
+      if (err) throw err;
+    });
+  
+  // Write template json
+  fs.outputFile('./build/site-data.json',
+    JSON.stringify(siteData),
+    function(err) {
+      if (err) throw err;
+    });
 });

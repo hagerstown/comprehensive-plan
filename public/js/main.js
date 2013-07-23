@@ -10,12 +10,14 @@ $('.twirl').click(function() {
   return false;
 });
 
+
+
 // Prev/next buttons
-var $active = $('.active');
-var prev = getPrev($active);
-var $prev = $('.prev');
-var next = getNext($active);
-var $next = $('.next');
+var $active = $('.active')
+  , prev = getPrev($active)
+  , $prev = $('.prev')
+  , next = getNext($active)
+  , $next = $('.next');
 
 $('.controls a').hover(function() {
   $(this).toggleClass('over');
@@ -38,9 +40,9 @@ if (next) {
 }
 
 function getPrev($cur) {
-  var $parent = $cur.parent(),
-    $prevParent = $parent.prev(),
-    $prevLink;
+  var $parent = $cur.parent()
+    , $prevParent = $parent.prev()
+    , $prevLink;
 
   if (!$cur.length) return false; // at index
 
@@ -71,9 +73,9 @@ function getPrev($cur) {
 }
 
 function getNext($cur) {
-  var $parent = $cur.parent(),
-    $nextParent = $parent.next(),
-    $nextLink;
+  var $parent = $cur.parent()
+    , $nextParent = $parent.next()
+    , $nextLink;
 
   if (!$cur.length) { // at index
     $nextLink = $('.section').first().children('a');
@@ -104,37 +106,91 @@ function getNext($cur) {
   }
 }
 
+
+
 // Search
-$('#search-query').focusin(function() {
-  $(this).addClass('focused').attr('placeholder', 'Search');
-}).focusout(function() {
-  if ($(this).val()) return;
-  $(this).removeClass('focused').removeAttr('placeholder');
-}).keyup(function() {
-  var $this = $(this);
+$.getJSON('/site-index.json', function(indexData) {
+  var index = lunr.Index.load(indexData)
+    , $searchResultsTemplate = $('#search-results-template').text()
+    , $results = $('.results')
+    , $resultsCont = $('#search-results');
+  
+  $('#search form').submit(function(e) {
+    e.preventDefault();
+  });
 
-  if ($this.val()) {
-    $('.toc').hide();
-    $this.addClass('filled');
-  } else {
-    $('.toc').show();
-    $this.removeClass('filled');
-  }
+  $.getJSON('/site-data.json', function(data) {
+    $('#search-query').addClass('visible')
+      .focusin(function() {
+        $(this).addClass('focused').attr('placeholder', 'Search');
+      })
+      .focusout(function() {
+        if ($(this).val()) return;
+        $(this).removeClass('focused').removeAttr('placeholder');
+      })
+      .keyup(function() {
+        var $this = $(this);
+      
+        if ($this.val()) {
+          $('.toc').hide();
+          $this.addClass('filled');
+        } else {
+          $('.toc').show();
+          $this.removeClass('filled');
+        }
+      })
+      .keyup(debounce(function() {
+        var $query = $(this).val()
+          , results;
+        
+        if ($query.length <= 2) {
+          $resultsCont.hide();
+          results = [];
+        } else {
+          $resultsCont.show();
+          results = index.search($query).map(function(result) {
+            return data.filter(function(q) {
+              return q.id === parseInt(result.ref, 10)
+            })[0];
+          });
+        }
+        renderSearchResults(results);
+      }));
+    
+    $('.clear').click(function() {
+      $resultsCont.hide();
+      $('#search-query').val('')
+        .keyup()
+        .removeClass('filled')
+        .focus();
+    });
+    
+    function renderSearchResults(pages) {
+      $results.empty();
+      if (pages.length) {
+        $results.append(Mustache.to_html($searchResultsTemplate, {
+          pages: pages
+        }));
+      } else {
+        $results.append('<p>Nothing found.</p>');
+      }
+      
+    }
+    
+    function debounce(fn) {
+      var timeout;
+      return function() {
+        var args = Array.prototype.slice.call(arguments),
+            ctx = this;
+    
+        clearTimeout(timeout);
+        timeout = setTimeout(function () {
+          fn.apply(ctx, args)
+        }, 100);
+      }
+    }
+    
+  });
 });
-
-$('.clear').click(function() {
-  $('#search-results').hide();
-  $('#search-query').val('')
-    .keyup()
-    .removeClass('filled')
-    .focus();
-});
-
-$('#search-query').lunrSearch({
-  indexUrl: '/search.json',
-  results:  '#search-results',
-  entries:  '.results',
-  template: '#search-results-template'
-});
-
+  
 });

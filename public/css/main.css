@@ -438,6 +438,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   border-bottom: 3px solid #eee;
+  line-height: 53px;
 }
 
 blockquote {
@@ -652,6 +653,10 @@ header a:hover {
   position: relative;
 }
 
+#search-results {
+  display: none;
+}
+
 #search-query {
   -webkit-appearance: none;
   display: block;
@@ -665,6 +670,11 @@ header a:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  opacity: 0;
+}
+
+#search-query.visible {
+  opacity: 1;
 }
 
 #search-query:focus, #search-query:hover, #search-query.focused {
@@ -703,7 +713,7 @@ header a:hover {
 }
 
 #main .wrapper {
-  padding: 3.7em 15% 3em 3em;
+  padding: 7.35em 15% 3em 3em;
 }
 
 #main h2:first-child {
