@@ -192,5 +192,16 @@ $.getJSON('/site-index.json', function(indexData) {
     
   });
 });
-  
+
+
+// Fancybox
+$(".thumb").fancybox({
+  helpers: {
+    thumbs: {
+      width: 50,
+      height: 50
+    }
+  }
+});
+
 });
