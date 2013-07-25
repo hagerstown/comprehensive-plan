@@ -802,12 +802,22 @@ header h3 {
   text-indent: 25px;
 }
 
+.controls .print {
+  width: 100%;
+  background: white;
+  border-top: 1px solid #eee;
+  font-size: .7em;
+}
+
 footer {
   /*background: #f9f9f9;*/
   background: #f2f2f2;
   border-top: 3px solid #eee;
-  font-size: 12px;
   color: #bbb;
+}
+
+footer p {
+  font-size: 12px;
 }
 
 .updated {
@@ -819,10 +829,9 @@ footer {
 }
 
 .copyright {
-  text-align: right;
+  float: right;
   font-style: italic;
 }
-
 
 /**
 * Full report for print
@@ -1080,6 +1089,7 @@ footer {
 
   footer, .copyright {
     text-align: center;
+    float: none;
   }
 
   .updated {
