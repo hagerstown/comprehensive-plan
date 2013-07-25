@@ -1,0 +1,51 @@
+<% include includes/head %>
+
+<header>
+  <div class="wrapper">
+    <a href="/">
+      <h1 class="title"><span id="logo"></span>Comprehensive Plan</h1>
+      <h2>Hagerstown, IN</h2>
+      <p>(back)</p>
+    </a>
+  </div>
+</header>
+
+<% site.pages.forEach(function(page) { %>
+<% if (!page.url.length) { %>
+<article class="main">
+  <div class="wrapper">
+    <%- page.body %>
+  </div>
+</article>
+<% } %>
+<% }); %>
+
+<% site.sections.forEach(function(section) { %>
+<section>
+  <% site.pages.forEach(function(page) { %>
+  <% if (page.title === section.title) { %>
+  <article class="main print-section">
+    <div class="wrapper">
+      <%- page.body %>
+    </div>
+  </article>
+  <% } %>
+  <% }); %>
+  
+  <% site.pages.forEach(function(page) { %>
+  <% if (page.section === section.title && page.title !== section.title) { %>
+  <article class="main">
+    <div class="wrapper">
+      <%- page.body %>
+    </div>
+  </article>
+  <% } %>
+  <% }); %>
+</section>
+<% }); %>
+
+<% include includes/footer %>
+
+<script>window.print()</script>
+
+<% include includes/foot %>

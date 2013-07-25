@@ -725,7 +725,7 @@ header h3 {
   display: block;
 }
 
-#main {
+.main, #main {
   position: relative;
   float: right;
   width: 70%;
@@ -733,13 +733,13 @@ header h3 {
   overflow: hidden;
 }
 
-#main .wrapper {
+.main .wrapper, #main .wrapper {
   padding: 5.8em 15% 3em 3em;
 }
 
-#main h1 { line-height: 53px; }
+.main h1, #main h1 { line-height: 53px; }
 
-#main h2:first-child {
+.main h2:first-child, #main h2:first-child {
   margin-top: 0;
 }
 
@@ -802,12 +802,22 @@ header h3 {
   text-indent: 25px;
 }
 
+.controls .print {
+  width: 100%;
+  background: white;
+  border-top: 1px solid #eee;
+  font-size: .7em;
+}
+
 footer {
   /*background: #f9f9f9;*/
   background: #f2f2f2;
   border-top: 3px solid #eee;
-  font-size: 12px;
   color: #bbb;
+}
+
+footer p {
+  font-size: 12px;
 }
 
 .updated {
@@ -819,10 +829,48 @@ footer {
 }
 
 .copyright {
-  text-align: right;
+  float: right;
   font-style: italic;
 }
 
+/**
+* Full report for print
+*/
+.full-report header {
+  width: 100%;
+  position: static;
+  text-align: center;
+  overflow: auto;
+}
+
+.full-report .title {
+  margin-right: 0;
+}
+
+.full-report h2 {
+  padding: 0;
+}
+
+.full-report #logo {
+  right: 50%;
+  margin-right: -34px;
+}
+
+.full-report .main {
+  float: none;
+  width: 100%;
+}
+
+.full-report .wrapper {
+  padding: 4em 3em 3em !important;
+}
+
+.print-section h1 {
+  text-align: center;
+  font-size: 3em;
+  line-height: normal;
+  border: 3px solid;
+}
 
 /**
  * Helpers
@@ -1041,6 +1089,7 @@ footer {
 
   footer, .copyright {
     text-align: center;
+    float: none;
   }
 
   .updated {
