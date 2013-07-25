@@ -725,7 +725,7 @@ header h3 {
   display: block;
 }
 
-#main {
+.main, #main {
   position: relative;
   float: right;
   width: 70%;
@@ -733,13 +733,13 @@ header h3 {
   overflow: hidden;
 }
 
-#main .wrapper {
+.main .wrapper, #main .wrapper {
   padding: 5.8em 15% 3em 3em;
 }
 
-#main h1 { line-height: 53px; }
+.main h1, #main h1 { line-height: 53px; }
 
-#main h2:first-child {
+.main h2:first-child, #main h2:first-child {
   margin-top: 0;
 }
 
@@ -823,6 +823,45 @@ footer {
   font-style: italic;
 }
 
+
+/**
+* Full report for print
+*/
+.full-report header {
+  width: 100%;
+  position: static;
+  text-align: center;
+  overflow: auto;
+}
+
+.full-report .title {
+  margin-right: 0;
+}
+
+.full-report h2 {
+  padding: 0;
+}
+
+.full-report #logo {
+  right: 50%;
+  margin-right: -34px;
+}
+
+.full-report .main {
+  float: none;
+  width: 100%;
+}
+
+.full-report .wrapper {
+  padding: 4em 3em 3em !important;
+}
+
+.print-section h1 {
+  text-align: center;
+  font-size: 3em;
+  line-height: normal;
+  border: 3px solid;
+}
 
 /**
  * Helpers

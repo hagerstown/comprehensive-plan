@@ -27,6 +27,19 @@ fs.copy('./public/', './build/', function(err) {
     fs.outputFile('./build/' + page.url + '/index.html', html);
   });
   
+  // Generate full-report page for printing
+  var layoutPath = './layouts/full-report.ejs'
+    , layoutStr = fs.readFileSync(layoutPath, 'utf8')
+    , page = {}
+    , html;
+  
+  page.filename = layoutPath;
+  page.site = site;
+  page.title = '';
+  page.section = 'full-report';
+  html = ejs.render(layoutStr, page); 
+  fs.outputFile('./build/full-report.html', html);
+  
   // Create lunr index for site-wide search
   var index = lunr(function() {
     this.ref('id');
