@@ -987,6 +987,15 @@ footer {
     text-align: center;
     overflow: auto;
   }
+  
+  .title {
+    margin-right: 0;
+  }
+  
+  #logo {
+    right: 50%;
+    margin-right: -34px;
+  }
 
   #main {
     float: none;
