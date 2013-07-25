@@ -204,4 +204,11 @@ $(".thumb").fancybox({
   }
 });
 
+
+// Full report print stuff
+$('.full-report #back').click(function(e) {
+  (window.history) ? window.history.back() : window.back();
+  e.preventDefault();
+});
+
 });
