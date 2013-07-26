@@ -15,7 +15,7 @@ The generated site will reside in `build`.
 ## Contribute
 
 The Comprehensive Plan consists of content written in
-[Markdown](http://daringfireball.net/projects/markdown/), layouts which 
+[Markdown](http://daringfireball.net/projects/markdown/), layouts which
 structure the content into an HTML page, and static assets (such as stylesheets,
 images and scripts).
 
@@ -36,9 +36,9 @@ named in a similar fashion: `01-area-and-context.md`.
 Each Markdown file must start with a level 1 heading:
 
     # Hello World
-    
+
     Welcome to the section.
-    
+
 ### Layouts
 
 Layouts are located in `layouts` and are rendered using
@@ -59,7 +59,7 @@ Publishing is as easy as building:
     make publish
 
 If you want to change the publish directory or host, just edit the `publish`
-rule accordingly.
+rule in the `Makefile`.
 
 ## Contact
 
