@@ -1,4 +1,4 @@
-# Hagerstown, IN Comprehensive Plan website
+# Hagerstown, IN Comprehensive Plan
 
 The new version of the Hagerstown, IN Comprehensive Plan. This project builds
 a static website with live search and a printable version of the full report.
@@ -10,7 +10,7 @@ installed, then:
 
     make
 
-The generated site will reside in `build`.
+The generated site will reside in `/build`.
 
 ## Contribute
 
@@ -20,7 +20,7 @@ structure the content into an HTML page, and static assets (such as stylesheets,
 images and scripts).
 
 Contributing should be pretty straightforward. The build system is comprised of
-the `build.js` script and the `lib` directory. Feel free to poke around to see
+the `build.js` script and the `/lib` directory. Feel free to poke around to see
 whats happening.
 
 ### Edit
@@ -38,10 +38,10 @@ description: (optional)*, and then click **Commit Changes** button.
 
 ### Content
 
-Content, or *sections* and *subsections*, are located in `content`. Each section
-directory (i.e. `01-introduction`) must be prepended with a zero-based number
-representing the section's order within the document. The table of contents is
-generated dynamically based off of these numbers.
+Content, or *sections* and *subsections*, are located in `/content`. Each
+section directory (i.e. `01-introduction`) must be prepended with a zero-based
+number representing the section's order within the document. The table of
+contents is generated dynamically based off of these numbers.
 
 Within each section directory there must be an `index.md` and subsection files
 named in a similar fashion: `01-area-and-context.md`.
@@ -54,16 +54,16 @@ Each Markdown file must start with a level 1 heading:
 
 ### Layouts
 
-Layouts are located in `layouts` and are rendered using
-[EJS](https://github.com/visionmedia/ejs). There are two main layouts: `default`
-and `full-report` (for printing the whole document), and a number of includes
-located in `layouts/includes`.
+Layouts are located in `/layouts` and are rendered using
+[EJS](https://github.com/visionmedia/ejs). There are two main layouts:
+`default.ejs` and `full-report` (for printing the whole document), and a number
+of includes located in `/layouts/includes`.
 
 ### Assets
 
 All static assets that don't require preprocessing (stylesheets, images,
-scripts, etc.), reside in `public` and are copied over to the `build` directory
-when generating the site.
+scripts, etc.), reside in `/public` and are copied over to the `/build`
+directory when generating the site.
 
 ## Publish
 
