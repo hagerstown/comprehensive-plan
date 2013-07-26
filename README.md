@@ -19,20 +19,21 @@ The Comprehensive Plan consists of content written in
 structure the content into an HTML page, and static assets (such as stylesheets,
 images and scripts).
 
-Contributing should be pretty straightforward. The build system is comprised of
-the `build.js` script and the `/lib` directory. Feel free to poke around to see
-whats happening.
-
-### Edit
-
 For those wanting to edit the main content of the report from your browser, go
 to the [content folder][content] and click on the Markdown file you wish to
 edit. Once you've opened the file, click the **Edit** button in the toolbar to
-make changes.
+make changes. As stated before, the pages are written in a language called
+Markdown, which is a simplified version of HTML. Here is [a good syntax
+reference](http://five.squarespace.com/display/ShowHelp?section=Markdown).
+And remember, **regular HTML is also valid Markdown**.
 
 Once finished editing, scroll to the bottom of the page and add a note
 explaining the amendments you made in the text box labeled *Extended
-description: (optional)*, and then click **Commit Changes** button.
+description: (optional)*, and then click the **Commit Changes** button.
+
+Tweaking the core should be pretty straightforward too. The build system is
+comprised of the `build.js` script and the `/lib` directory. Feel free to poke
+around to see whats happening.
 
 [content]: https://github.com/hagerstown/comprehensive-plan/tree/master/content
 
