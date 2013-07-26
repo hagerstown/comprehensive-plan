@@ -8,7 +8,11 @@ node_modules:
 	@npm install
 
 publish: clean build
-	@rsync -azxuvh --delete --progress build <dest>
+	git clone git@github.com:hagerstown/hagerstown.github.io.git temp
+	rm -rf temp/*
+	cp -R build/ temp
+	cd temp && git add -A && git commit -m'Build' && git push
+	rm -rf temp
 
 clean:
 	rm -rf build node_modules
