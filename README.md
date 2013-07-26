@@ -23,6 +23,19 @@ Contributing should be pretty straightforward. The build system is comprised of
 the `build.js` script and the `lib` directory. Feel free to poke around to see
 whats happening.
 
+### Edit
+
+For those wanting to edit the main content of the report from your browser, go
+to the [content folder][content] and click on the Markdown file you wish to
+edit. Once you've opened the file, click the **Edit** button in the toolbar to
+make changes.
+
+Once finished editing, scroll to the bottom of the page and add a note
+explaining the amendments you made in the text box labeled *Extended
+description: (optional)*, and then click **Commit Changes** button.
+
+[content]: https://github.com/hagerstown/comprehensive-plan/tree/master/content
+
 ### Content
 
 Content, or *sections* and *subsections*, are located in `content`. Each section
@@ -64,7 +77,7 @@ rule in the `Makefile`.
 ## Contact
 
 For questions, concerns, amendments, etc., please contact Bob Warner,
-*Town Manager* <[bobwarner87@yahoo.com](mailto:bobwarner87@yahoo.com)>.
+*Town Manager* <bobwarner87@yahoo.com>.
 
 ## License
 
