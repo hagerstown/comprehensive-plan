@@ -1,15 +1,10 @@
 # Area & Context
 
-Hagerstown is located in Jefferson Township in western Wayne County. The town is located approximately thirteen miles west of Richmond and ten miles east of New Castle. The community is located near the crossroads of State Road 38 and State Road 1, approximately five miles north of Interstate 70. Interstate 70 is the major east-west route from Ohio to Colorado, passing through Indianapolis.
+Hagerstown is situated in Jefferson Township in western Wayne County.  Located approximately thirteen miles west of Richmond and ten miles east of New Castle, the community sits near the intersection of State Road 38 and State Road 1.  Hagerstown is approximately five miles north of Interstate 70, and the town has rail access via the Norfolk and Southern railroad.  The Hagerstown Airport also services the community and can accommodate small aircraft.  
 
-The town has excellent rail access via the Norfolk and Southern railroad. The line runs east/west through town. In New Castle, the tracks turn north, providing rail access to Muncie. From Muncie, goods are transported west on the line.
+The Cardinal Greenway section of the American Discovery Trail, a rails-to-trails program intended to eventually stretch from Maryland to the Pacific Ocean, passes through Wayne County a few miles north of Hagerstown.
 
-The Cardinal Greenway section of the American Discovery Trail, a rails-to- trails program eventually leading from Maryland to the Pacific Ocean, passes through Wayne County a few miles north of Hagerstown.
+Both Whitewater River and Nettle Creek run through the community, with Nettle Creek feeding into Scout Lake just south of town. In the nineteenth century, Hagerstown was the northern terminus of the White Water Canal, a major canal system which spanned seventy-six miles and was completed in 1847.  Today, many elements of Hagerstown life have taken on the name of Nettle Creek, including the Nettle Creek School Corporation and the Nettle Creek Gazette. 
 
-The community also has a municipal airport for small aircraft, located south east of town.
-
-In 1847 the White Water Canal terminated in Hagerstown The canal had a very short life and the canal company went bankrupt in the 1860’s. The tow paths were sold to the Big Four Railroad Company. The railroad tracks were removed in 1931.
-
-The Whitewater River and Nettle Creek run through the community. Nettle Creek has given its name to several elements of Hagerstown life such as the local school corporation.
 
 <div class="ph ph-map">Context map including Hagerstown and the surrounding area.</div>
