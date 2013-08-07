@@ -1,4 +1,4 @@
-# Land Use
+# Land Use Planning
 
 An inventory of the current land uses in Hagerstown is useful in making future land use decisions and changes to development ordinances. Land uses are typically divided in to several categories: residential, commercial and business, industrial, public and quasi-public, farmland, and undeveloped land.
 
