@@ -10,6 +10,7 @@ The areas of focus for this Comprehensive Plan include:
 - Maintaining and improving the town’s **Built Environment**
 - Engaging in **Planned Economic Development** through goals and action plans
 
+
 The primary goals of this Comprehensive Plan include:
 
 - Goal
