@@ -1,23 +1,23 @@
 Hagerstown government consists of the Town Council, the Town Manager, the Clerk-Treasurer, the Plan Commission, and the Board of Zoning Appeals.  The town also has a police department which operates under a town marshal system, as well as a volunteer fire department. 
 
-Town Council
+**Town Council**
 - Legislative and executive body for the town
 - Composed of five members
 - Four-year terms for members
   - Staggered elections prevent an all-new council from taking office in any given year
 
-Town Manager
+**Town Manager**
 - Administrative head of town management
 - Holds limited executive powers
 - Hired by the Town Council 
 - Works on contractual basis to oversee daily functions of the town
 
-Clerk-Treasurer
+**Clerk-Treasurer**
 - Fiscal officer of the town
 - Elected, four-year term
 - Duties include record maintenance, collecting and dispersing monies, maintaining financial records, recording town council proceedings, issuing licenses
 
-Plan Commission
+**Plan Commission**
 - Planning and zoning advisory board of the town
 - Composed of seven members
   - Three members are from town government
@@ -25,7 +25,7 @@ Plan Commission
   - No more than two citizen members may be from the same political party
   - Citizen members appointed to four-year terms
 
-Board of Zoning Appeals
+**Board of Zoning Appeals**
 - Five-member board
   - Three members appointed by Town Council President, one of whom must be Plan Commission member
   - One citizen member appointed by Town Council
@@ -34,14 +34,14 @@ Board of Zoning Appeals
 - Hears requests for appeal or variance from zoning regulations
 - Also makes planning-related decisions
 
-Hagerstown Police Department
+**Hagerstown Police Department**
 - Operates under town marshal system, as defined by Indiana law
 - Marshal is appointed by Town Council and reports to Town Council President
 
 
 
 
-**Land Use and Zoning Code**
+***Land Use and Zoning Code***
 
 An inventory of current land uses in Hagerstown is useful in making future land use decisions and changes to development ordinances.  Land uses are typically divided into several categories: residential, commercial and business, industrial, public and quasi-public, farmland, and undeveloped land.
 
@@ -63,4 +63,4 @@ Community
 - Other community lands include those held by utility companies and churches, as well as the Optimist Club athletic park
 
 Agricultural
-•	Much of the land in Jefferson Township is considered prime farmland and used for agriculture
+- Much of the land in Jefferson Township is considered prime farmland and used for agriculture
