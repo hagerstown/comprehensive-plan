@@ -26,13 +26,13 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
   - Citizen members appointed to four-year terms
 
 **Board of Zoning Appeals**
+- Hears requests for appeal or variance from zoning regulations
+- Also makes planning-related decisions
 - Five-member board
   - Three members appointed by Town Council President, one of whom must be Plan Commission member
   - One citizen member appointed by Town Council
   - One member appointed by Plan Commission
   - The member appointed by Plan Commission plus one other member must be residents of the unincorporated area under jurisdiction of Hagerstown zoning law
-- Hears requests for appeal or variance from zoning regulations
-- Also makes planning-related decisions
 
 **Hagerstown Police Department**
 - Operates under town marshal system, as defined by Indiana law
@@ -45,22 +45,22 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 
 An inventory of current land uses in Hagerstown is useful in making future land use decisions and changes to development ordinances.  Land uses are typically divided into several categories: residential, commercial and business, industrial, public and quasi-public, farmland, and undeveloped land.
 
-Residential
+**Residential**
 - Currently occupies the most land area in Hagerstown
 - Majority of housing is single-family detached units, developed in neighborhood blocks
 - Limited number of higher-density residences are available
 
-Commercial
+**Commercial**
 - Downtown Hagerstown and State Road 38 are primarily devoted to government and commercial uses
 - Commercial uses are focused in the downtown area, along with some segments east of town near State Road 1
 
-Industrial
+**Industrial**
 - Occupies most land area following residential uses
 - Three industrial parks are located in Hagerstown
 
-Community
+**Community**
 - Public land use includes the schools, library, municipal buildings, cemetery, water treatment plant, post office, parks
 - Other community lands include those held by utility companies and churches, as well as the Optimist Club athletic park
 
-Agricultural
+**Agricultural**
 - Much of the land in Jefferson Township is considered prime farmland and used for agriculture
