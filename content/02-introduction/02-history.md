@@ -1,5 +1,17 @@
 # History
 
+# Area & Context
+
+Hagerstown is situated in Jefferson Township in western Wayne County.  Located approximately thirteen miles west of Richmond and ten miles east of New Castle, the community sits near the intersection of State Road 38 and State Road 1.  Hagerstown is approximately five miles north of Interstate 70, and the town has rail access via the Norfolk and Southern railroad.  The Hagerstown Airport also services the community and can accommodate small aircraft.  
+
+The Cardinal Greenway section of the American Discovery Trail, a rails-to-trails program intended to eventually stretch from Maryland to the Pacific Ocean, passes through Wayne County a few miles north of Hagerstown.
+
+Both Whitewater River and Nettle Creek run through the community, with Nettle Creek feeding into Scout Lake just south of town. In the nineteenth century Hagerstown was the northern terminus of the White Water Canal, a major canal system which spanned seventy-six miles and was completed in 1847.  Today, many elements of Hagerstown life have taken on the name of Nettle Creek, including the Nettle Creek School Corporation and the Nettle Creek Gazette. 
+
+
+<div class="ph ph-map">**Context map including Hagerstown and the surrounding area.**</div>
+
+
 ##Early History
 
 The Treaty of Greenville between the federal government and the Native Americans of the Western Confederacy was signed in 1795; this treaty first opened the far eastern part of present-day Wayne County to settlers.  In 1809, the Twelve Mile Purchase pushed the edge of U.S. territory twelve miles farther west, drawing the boundary just east of where Hagerstown is today.  Treaty Line Road, just south of Hagerstown, still runs along this 1809 treaty line.  Though the land in and around present-day Hagerstown was not open for sale until after 1822, settlers began to move into the area by 1814 (Young 273).  
@@ -28,15 +40,3 @@ The automobile has continued to leave its mark on Hagerstown business and indust
 Abbott’s Candy is another important part of Hagerstown’s history. In 1897, William Clay Abbott sold his Hagerstown restaurant to become a traveling salesman for the candy makers Dilling & Company.  After some time, he returned to Hagerstown and began to make and sell his own candy, turning the garage behind his home into a candy factory.  Abbott’s candies quickly became locally famous, particularly his caramels and butterscotch.  After William’s death in 1942, his son, J. Bruce Abbott, and widow, Florence, continued the candy-making tradition.  Bruce first introduced mechanization to the process, but his death in 1949 left Florence and Bruce’s widow, Rhea, to take on the candy business.  Rhea introduced further mechanization to the factory, and in 1956 the women opened a gift shop on Main Street which they called The Two Sisters.  Rhea’s daughter, Suanna Abbott Goodnight, took over the business after her mother’s death in 1988.  Jay and Lynn Noel recently acquired the business, and have opened two additional locations in Indianapolis. 
 
 Finally, Hagerstown is perhaps most well-known in the area for its local smorgasbord restaurant.  After returning from World War II, Guy “Willie” Welliver thought to open a haberdashery on Main Street.  After purchasing a location on Main Street—which was, at the time, set up as a restaurant—Welliver attended a “thrasher’s dinner” at his mother-in-law’s home.  The following week he decided to offer a similar smorgasbord meal in his newly-acquired restaurant.  The restaurant was a success, with pan-fried chicken, shrimp, and cinnamon bread becoming its signature items. Welliver’s Famous Smorgasbord remained family-owned until 2010, when it was purchased by local business owners Mike and Penny Wicks.  After surviving a fire and subsequent renovations, the restaurant reopened as Willie and Red’s and continues to draw patrons with its extensive smorgasbord and menu options.
-
-
-# Area & Context
-
-Hagerstown is situated in Jefferson Township in western Wayne County.  Located approximately thirteen miles west of Richmond and ten miles east of New Castle, the community sits near the intersection of State Road 38 and State Road 1.  Hagerstown is approximately five miles north of Interstate 70, and the town has rail access via the Norfolk and Southern railroad.  The Hagerstown Airport also services the community and can accommodate small aircraft.  
-
-The Cardinal Greenway section of the American Discovery Trail, a rails-to-trails program intended to eventually stretch from Maryland to the Pacific Ocean, passes through Wayne County a few miles north of Hagerstown.
-
-Both Whitewater River and Nettle Creek run through the community, with Nettle Creek feeding into Scout Lake just south of town. In the nineteenth century Hagerstown was the northern terminus of the White Water Canal, a major canal system which spanned seventy-six miles and was completed in 1847.  Today, many elements of Hagerstown life have taken on the name of Nettle Creek, including the Nettle Creek School Corporation and the Nettle Creek Gazette. 
-
-
-<div class="ph ph-map">Context map including Hagerstown and the surrounding area.</div>
