@@ -1,31 +1,66 @@
-# Town Government
+Hagerstown government consists of the Town Council, the Town Manager, the Clerk-Treasurer, the Plan Commission, and the Board of Zoning Appeals.  The town also has a police department which operates under a town marshal system, as well as a volunteer fire department. 
 
-## Town Council
+Town Council
+- Legislative and executive body for the town
+- Composed of five members
+- Four-year terms for members
+  - Staggered elections prevent an all-new council from taking office in any given year
 
-The Town Council is the legislative and executive body of the town, composed of five members. Each member serves a four year term. Elections are staggered so as to prevent an all new council in any given year.
+Town Manager
+- Administrative head of town management
+- Holds limited executive powers
+- Hired by the Town Council 
+- Works on contractual basis to oversee daily functions of the town
 
-## Town Manager
+Clerk-Treasurer
+- Fiscal officer of the town
+- Elected, four-year term
+- Duties include record maintenance, collecting and dispersing monies, maintaining financial records, recording town council proceedings, issuing licenses
 
-The town manager is the administrative head of town management, and may exercise limited executive powers. The Manager is hired by the Town Council and works on a contractual basis to oversee the daily functions of the town.
+Plan Commission
+- Planning and zoning advisory board of the town
+- Composed of seven members
+  - Three members are from town government
+  - Four members are appointed citizens
+  - No more than two citizen members may be from the same political party
+  - Citizen members appointed to four-year terms
 
-## Clerk-Treasurer
+Board of Zoning Appeals
+- Five-member board
+  - Three members appointed by Town Council President, one of whom must be Plan Commission member
+  - One citizen member appointed by Town Council
+  - One member appointed by Plan Commission
+  - The member appointed by Plan Commission plus one other member must be residents of the unincorporated area under jurisdiction of Hagerstown zoning law
+- Hears requests for appeal or variance from zoning regulations
+- Also makes planning-related decisions
 
-The Clerk-Treasurer is the fiscal officer of the town. It is an elected, four-year term of office. Duties include record maintenance, collecting and dispersing monies, maintaining financial records, recording town council proceedings, and issuing licenses.
+Hagerstown Police Department
+- Operates under town marshal system, as defined by Indiana law
+- Marshal is appointed by Town Council and reports to Town Council President
 
-## Police
 
-The Hagerstown Police operate under a town marshal system, as defined by Indiana law. The Marshal is appointed by the Town Council and reports to the Town Council President. There are five full-time police officers on the Hagerstown Police force, all have completed police academy training. The police department has two fully marked and equipped patrol vehicles and a “back up” car which can easily be converted for duty.
 
-## Fire
 
-Hagerstown’s fire service is provided by a volunteer fire department. The fire station is located near downtown and the other public buildings. The fire department has <span class="proof">___________</span> equipment, and provides service earning a <span class="proof">_____ISO</span> rating.
+**Land Use and Zoning Code**
 
-## Plan Commission
+An inventory of current land uses in Hagerstown is useful in making future land use decisions and changes to development ordinances.  Land uses are typically divided into several categories: residential, commercial and business, industrial, public and quasi-public, farmland, and undeveloped land.
 
-The Plan Commission is the planning and zoning advisory board for the town. The Plan Commission has seven members. Three of the Plan Commission members are from town government, and four are appointed citizen members, no more than two of whom may be from the same political party. Citizen members are appointed to four year terms. The Plan Commission meets the third Wednesday of each month.
+Residential
+- Currently occupies the most land area in Hagerstown
+- Majority of housing is single-family detached units, developed in neighborhood blocks
+- Limited number of higher-density residences are available
 
-## Board of Zoning Appeals
+Commercial
+- Downtown Hagerstown and State Road 38 are primarily devoted to government and commercial uses
+- Commercial uses are focused in the downtown area, along with some segments east of town near State Road 1
 
-The BZA is a five member board who meets to hear requests for appeal or variance from the zoning regulations as well as make other planning related decisions. Three of the Board members are citizens appointed by the Town Council President, one of whom must be a member of the Plan Commission. One citizen member is appointed by the Town Council, and the other is appointed by the Plan Commission. The member appointed by the Plan Commission and one other member must be residents of the unincorporated area under the jurisdiction of Hagerstown zoning law.
+Industrial
+- Occupies most land area following residential uses
+- Three industrial parks are located in Hagerstown
 
-<div class="ph ph-chart">Hagerstown organizational structure</div>
+Community
+- Public land use includes the schools, library, municipal buildings, cemetery, water treatment plant, post office, parks
+- Other community lands include those held by utility companies and churches, as well as the Optimist Club athletic park
+
+Agricultural
+•	Much of the land in Jefferson Township is considered prime farmland and used for agriculture
