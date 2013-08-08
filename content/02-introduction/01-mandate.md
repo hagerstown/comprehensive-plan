@@ -1,6 +1,6 @@
 # Mandate
 
-Indiana statute, Title 36, Article 7, as amended, empowers towns and cities to plan.  This mandate encourages towns “to improve the health, safety, convenience, and welfare of their citizens and to plan for the future development of their communities” (IC 36-7-4-201).  In exercising planning and zoning, towns should
+Indiana statute, Title 36, Article 7, as amended, empowers towns and cities to plan.  This mandate encourages towns “to improve the health, safety, convenience, and welfare of their citizens and to plan for the future development of their communities” (IC 36-7-4-201).  In exercising planning and zoning, towns should:
 - Carefully plan highway systems
 - Grow only with adequate public way, utility, health, educational, and recreational facilities
 - Recognize the needs of agriculture, forestry, industry, and business in future growth
