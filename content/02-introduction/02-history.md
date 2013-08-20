@@ -1,6 +1,6 @@
 # History
 
-# Area & Context
+## Area & Context
 
 Hagerstown is situated in Jefferson Township in western Wayne County.  Located approximately thirteen miles west of Richmond and ten miles east of New Castle, the community sits near the intersection of State Road 38 and State Road 1.  Hagerstown is approximately five miles north of Interstate 70, and the town has rail access via the Norfolk and Southern railroad.  The Hagerstown Airport also services the community and can accommodate small aircraft.  
 
