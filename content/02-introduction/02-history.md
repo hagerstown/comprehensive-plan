@@ -14,7 +14,7 @@ Both Whitewater River and Nettle Creek run through the community, with Nettle Cr
 
 ##Early History
 
-The Treaty of Greenville between the federal government and the Native Americans of the Western Confederacy was signed in 1795; this treaty first opened the far eastern part of present-day Wayne County to settlers.  In 1809, the Twelve Mile Purchase pushed the edge of U.S. territory twelve miles farther west, drawing the boundary just east of where Hagerstown is today.  Treaty Line Road, just south of Hagerstown, still runs along this 1809 treaty line.  Though the land in and around present-day Hagerstown was not open for sale until after 1822, settlers began to move into the area by 1814.  
+The Treaty of Greenville between the federal government and the Native Americans of the Western Confederacy was signed in 1795, and this treaty first opened the far eastern part of present-day Wayne County to settlers.  In 1809, the Twelve Mile Purchase pushed the edge of U.S. territory twelve miles farther west, drawing the boundary just east of where Hagerstown is today.  Treaty Line Road, just south of Hagerstown, still runs along this 1809 treaty line.  Though the land in and around present-day Hagerstown was not open for sale until after 1822, settlers began to move into the area by 1814.  
 
 In 1830, Jacob Ulrich began to sell off lots in the area of present-day Hagerstown, calling this new venture Elizabethtown after his daughter.  On March 8, 1932, Ulrich and Jonas Harris laid out the town and renamed it Hagerstown.  Hagerstown was surveyed and platted November 15, 1832, and Jefferson Township was formed in 1834.  Hagerstown was incorporated as a town on September 3, 1853. 
 
