@@ -14,3 +14,5 @@ Town planning commissions are charged with preparing a comprehensive plan (IC 36
 - A statement of objectives for the future development of the jurisdiction
 - A statement of policy for the land use development of the jurisdiction
 - A statement of policy for the development of public ways, public places, public lands, public structures, and public utilities
+
+This plan thus intends to fulfill Indiana state statutes regarding town planning as well as provide the town of Hagerstown with a useful tool for the future.
