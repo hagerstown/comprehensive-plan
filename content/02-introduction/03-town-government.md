@@ -1,3 +1,5 @@
+##Town Government
+
 Hagerstown government consists of the Town Council, the Town Manager, the Clerk-Treasurer, the Plan Commission, and the Board of Zoning Appeals.  The town also has a police department which operates under a town marshal system, as well as a volunteer fire department. 
 
 **Town Council**
@@ -41,7 +43,7 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 
 
 
-***Land Use and Zoning Code***
+##Land Use and Zoning Code
 
 An inventory of current land uses in Hagerstown is useful in making future land use decisions and changes to development ordinances.  Land uses are typically divided into several categories: residential, commercial and business, industrial, public and quasi-public, farmland, and undeveloped land.
 
