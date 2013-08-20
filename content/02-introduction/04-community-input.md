@@ -51,9 +51,9 @@ On June 12, 2013 a public workshop and open discussion was hosted by the Plannin
 
 ## Acknowledgments
 
-We would like to thank the *Hagerstown Planning Commission* for their time and dedication to this task, for their insights in creating a positive vision for the future of Hagerstown, and for facilitating this great undertaking. 
-
 Most importantly, we would like to thank the people of Hagerstown for their support and involvement in their community.
+
+We would also like to thank the *Hagerstown Planning Commission* for their time and dedication to this task, for their insights in creating a positive vision for the future of Hagerstown, and for facilitating this great undertaking. 
 
 ### Planning Commission Team
 
