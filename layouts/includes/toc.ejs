@@ -2,10 +2,10 @@
   <ul class="sections">
   <% site.sections.forEach(function(s) { %>
     <li class="section<%if (s.title === section) { %> section-active<% } %>">
-      <a href="/<%= s.url %>"<% if (s.title === title) { %> class="active"<% } %>><span class="twirl"></span><%= s.title %></a>
     <% var pages = site.pages.filter(function(p) {
       return p.section !== p.title && p.section === s.title;
     }); %>
+      <a href="/<%= s.url %>"<% if (s.title === title) { %> class="active"<% } %>><% if (pages.length) { %><span class="twirl"></span><% } %><%= s.title %></a>
     <% if (pages.length) { %>
       <ul class="subsections">
       <% pages.forEach(function(p) { %>
