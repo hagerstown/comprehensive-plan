@@ -1,4 +1,4 @@
-##Town Government
+#Town Government
 
 Hagerstown government consists of the Town Council, the Town Manager, the Clerk-Treasurer, the Plan Commission, and the Board of Zoning Appeals.  The town also has a police department which operates under a town marshal system, as well as a volunteer fire department. 
 
