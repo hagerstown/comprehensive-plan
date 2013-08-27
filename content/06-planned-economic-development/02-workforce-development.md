@@ -2,7 +2,7 @@
 
 Workforce development initiatives are concerned with creating a better match between the needs of employers and the skills of the local workforce. The major goal of workforce development in Hagerstown is to maintain a competitive workforce with skills that will both meet current employer demands and attract new industries to Hagerstown.
 
-Goals and Action Plans
+##Goals and Action Plans
 
 -	**Maintain state-of-the-art technology in technical school programs**
   - Technical school programs prepare students with the needed skills to enter a technical field following high school (or technical school) graduation. In order to meet this goal, the technical schools should have equipment (including computers, CAD software, and machinery) that is comparable to the equipment used in industry. School-business partnerships may be able to help the schools obtain such equipment.
