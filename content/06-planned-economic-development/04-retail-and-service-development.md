@@ -1,5 +1,7 @@
 # Retail and Service Development
 
+Development of the retail and service sector was identified by residents as a critical need. The creation of more retail opportunities may also enhance tourism in the area.
+
 ##Goals and Action Plans
 
 -	**Provide job and business training for retail occupations and industries**
