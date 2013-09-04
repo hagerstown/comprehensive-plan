@@ -13,13 +13,8 @@ The areas of focus for this Comprehensive Plan include:
 
 The primary goals of this Comprehensive Plan include:
 
-- Goal
-- Goal
-- Goal
-
-## Table of contents
-
-- Subsection
-- Table
-- Of
-- Contents
+- **Redeveloping and revitalizing** existing Hagerstown neighborhoods, including downtown and Main Street
+- Implementing **capital improvement plans** for infrastructure
+- Encouraging **economic development**
+- Preserving the **environment** and adopting guidelines for **sustainability**
+- Integrating **assets, liabilities, needs, and dreams,** as determined through community input, into a workable solution
