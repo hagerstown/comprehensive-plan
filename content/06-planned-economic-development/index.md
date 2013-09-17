@@ -2,7 +2,7 @@
 
 Economic development will ensure that Hagerstown continues to provide its residents with a high **quality of life** and an efficient, sustainable, and attractive **built environment**, and future economic growth in Hagerstown must be built upon a foundation of planning in the present.  This section will thus outline those economic goals and related action plans developed by the Plan Commission in conjunction with community input.  Economic goals for Hagerstown include continued Industrial Development, Workforce Development, Tourism, and Retail & Service Development.
 
-## Table of contents
+## Table of Contents
 
 - **Industrial Development** - Industrial development considers opportunities for fully utilizing industrial buildings and Hagerstown’s industrial park.  It also considers alternative forms of industry, such as cottage industries and local value-added industries.  The major goals of industrial development in Hagerstown include attracting technology-based small business, encouraging farm-based business and agricultural industries, creating a market for local value-added industries, maintaining environmental sustainability, and encouraging further development of brownfields.
 - **Workforce Development** - Workforce development initiatives are concerned with creating a better match between the needs of employers and the skills of the local workforce. The major goal of workforce development in Hagerstown is to maintain a competitive workforce with skills that will both meet current employer demands and attract new industries to Hagerstown.
