@@ -6,7 +6,7 @@ In the section titled **demographics,** you can find data on Hagerstown's reside
 
 In the three sections titled **quality of life**, **built environment**, and **planned economic development**, you can find goals and action plans outlining Hagerstown's plan for moving into the future.
 
-## Table of contents
+## Table of Contents
 
 - Mandate
 - History
