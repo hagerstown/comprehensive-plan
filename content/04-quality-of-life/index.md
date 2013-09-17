@@ -2,7 +2,7 @@
 
 What does **quality of life** mean for Hagerstown?  In a public meeting held on June 12, 2013, Hagerstown residents were asked just that.  The answer: quality of life means that all have access to education, safety, and recreation, and that we live in a clean and beautiful place.  Thus, in order to uphold the quality of life for all residents, the Comprehensive Plan sets out goals relating to Housing; Community Involvement; Parks, Recreation, & Cultural Resources; Elderly/Child Care; and Schools.
 
-## Table of contents
+## Table of Contents
 
 - **Housing** - Much of the housing in Hagerstown consists of single-family homes rich in character. As such, future housing goals center on property maintenance as well as diversifying the types of available housing to accommodate a changing population.
 - **Community Involvement** - Community involvement is an essential component of Hagerstown’s quality of life.  Goals regarding community involvement seek to encourage the ongoing volunteerism of Hagerstown residents and to provide opportunities for youth involvement. 
