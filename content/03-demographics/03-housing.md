@@ -1,5 +1,11 @@
 # Housing
 
-According to the 1990 Census, Hagerstown contains 807 households, most of which are single families occupied houses they owned. Children, householders and their spouses make up the largest percentage of persons in the town, accounting for 81 percent of the total population. However, for persons 65 and older (about 20 percent of the town population) the household type is much different. Over half of the members of the aged community were either householders or their spouses, but a significant number (41 percent) were non-family householders living alone. There are no elderly persons living in group quarters, such as nursing homes, since Hagerstown has none of these facilities. These statistics are typical with those of Indiana in general.
+Hagerstown has 751 households, of which 62% are families, and 28.6% are families with children under 18 years of age. The average household size in Hagerstown includes 2.38 persons, and the average family size includes 3.02 persons.  
+
+31.7% of Hagerstown households have individuals 65 years of age or older, and 12.6% of Hagerstown households are females 65 years of age or older who live alone. 
+
+Of the 751 occupied housing units in Hagerstown, 72.7% are owner-occupied, and 27.3% are occupied by renters.  There are 75 unoccupied housing units in the town. 
+
+[Chart: Family Type]
 
 <div class="ph ph-chart">Number of Persons in Households</div>
