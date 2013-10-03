@@ -45,11 +45,13 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 
 ##Land Use and Zoning Code
 
-An inventory of current land uses in Hagerstown is useful in making future land use decisions and changes to development ordinances.  Land uses are typically divided into several categories: residential, commercial and business, industrial, public and quasi-public, farmland, and undeveloped land.
+An inventory of current land uses in Hagerstown is useful in making future land use decisions and changes to 
+development ordinances.  Land uses are typically divided into several categories: residential, commercial and 
+business, industrial, public and quasi-public, farmland, and undeveloped land.
 
 **Residential**
 - Currently occupies the most land area in Hagerstown
-- Majority of housing is single-family detached units, developed in neighborhood blocks
+- Majority of housing is single-family detached units, developed into neighborhood blocks
 - Limited number of higher-density residences are available
 
 **Commercial**
