@@ -1,12 +1,15 @@
 # Community Input
 
-Community input is a vital component of the Comprehensive Plan, as it provides valuable insight into the strengths, goals, wants and needs of the Hagerstown community.  
+Community input is a vital component of the Comprehensive Plan, as it provides valuable insight into the strengths, 
+goals, wants and needs of the Hagerstown community.  
 
-Community input was collected by the Plan Commission through surveys and public meetings.  The results of this input provide direction for future goals and action plans.
+The Hagerstown Plan Commission has collected community input through both surveys and public meetings.  The results 
+of this input provide direction for future goals and action plans.
 
 ##Survey Responses
 
-Surveys were distributed to Hagerstown residents via email, social media, postal mail, and various town locations such as the IGA grocery store, Nettle Creek Hardware store, and the Hagerstown-Jefferson Township Library.  
+Surveys were distributed to Hagerstown residents via email, social media, postal mail, and various town locations 
+such as the IGA grocery store, Nettle Creek Hardware store, and the Hagerstown-Jefferson Township Library.  
 
 **Survey Questions**
 
@@ -23,13 +26,20 @@ Surveys were distributed to Hagerstown residents via email, social media, postal
 - One positive aspect of Hagerstown
 - One negative liability of Hagerstown
 
-Results of the survey were compiled and assessed by members of the Planning Commission.  The following conclusions were drawn from survey results:
+Results of the survey were compiled and assessed by members of the Planning Commission.  The following conclusions 
+were drawn from survey results:
 
 **Survey Results**
 
 ##Public Meeting
 
-On June 12, 2013 a public workshop and open discussion was hosted by the Planning Commission.  Residents were encouraged to give voice to their ideas, concerns, and aspirations regarding the future of Hagerstown.  The meeting was held in The Meeting Place on Main Street and was moderated by Susie Ripley.  Attendees were asked to respond to various questions during the meeting and to vote on their top five answers for each question.  Results of this meeting are summarized below.
+On June 12, 2013 a public workshop and open discussion was hosted by the Planning Commission.  Residents were 
+encouraged to give voice to their ideas, concerns, and aspirations regarding the future of Hagerstown.  The 
+meeting was held in The Meeting Place on Main Street and was moderated by Susie Ripley, who is an East Central 
+Community Liaison from the 
+Office of Community and Rural Affairs.  Attendees were asked to 
+respond to various questions during the meeting and to vote on their top five answers for each question.  
+Results of this meeting are summarized below.
 
 **What qualities does Hagerstown currently have?**
 - Library (11 votes)
