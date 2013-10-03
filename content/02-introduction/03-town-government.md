@@ -64,7 +64,7 @@ business, industrial, public and quasi-public, farmland, and undeveloped land.
 
 **Community**
 - Public land use includes the schools, library, municipal buildings, cemetery, water treatment plant, post office, parks
-- Other community lands include those held by utility companies and churches, as well as the Optimist Club athletic park
+- Other community lands include those held by utility companies, churches, and local clubs and organizations
 
 **Agricultural**
 - Much of the land in Jefferson Township is considered prime farmland and used for agriculture
