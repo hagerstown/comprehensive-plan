@@ -23,12 +23,9 @@ Growth include:
   - Revitalizing historic neighborhoods through the preservation and conservation of historic buildings will ensure that Hagerstown maintains its charm and character.
   - Maintaining and creating parks provides open spaces for community and individual activities
 - **Promote a healthy environment for Hagerstown residents**
-  - Protect local flora and fauna
-  - Maintain clean water sources
-  - Conserve soil quality
-  - Create environmentally sustainable building policies
-  - Decrease our community's net greenhouse gas emissions
+  - Protecting local flora and fauna, maintaining clean water sources, and conserving soil quality provides a healthier environment for all.
+  - Creating environmentally sustainable building policies encourages development which has a minimal impact on the environment.
+  - Decreasing our community's net greenhouse gas emissions will ensure a clean environment for future generations.
 - **Encourage the re-use of land and buildings**
-  - Promote the redevelopment of brownfields
-  - Encourage the development of existing buildings for new industrial, commercial, or residential uses
-  - Improve existing strutures for future use
+  - Promoting the redevelopment of brownfields will aid in the cleanup of such sites.
+  - Encouraging the development of existing buildings for new industrial, commercial, or residential uses will prevent urban sprawl and revitalize existing neighborhoods.
