@@ -9,6 +9,7 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 - Four-year terms for members
   - Staggered elections prevent an all-new council from taking office in any given year
 
+
 **Town Manager**
 
 - Administrative head of town management
@@ -16,11 +17,13 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 - Hired by the Town Council 
 - Works on contractual basis to oversee daily functions of the town
 
+
 **Clerk-Treasurer**
 
 - Fiscal officer of the town
 - Elected, four-year term
 - Duties include record maintenance, collecting and dispersing monies, maintaining financial records, recording town council proceedings, issuing licenses
+
 
 **Plan Commission**
 
@@ -31,6 +34,7 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
   - No more than two citizen members may be from the same political party
   - Citizen members appointed to four-year terms
 
+
 **Board of Zoning Appeals**
 
 - Hears requests for appeal or variance from zoning regulations
@@ -40,6 +44,7 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
   - One citizen member appointed by Town Council
   - One member appointed by Plan Commission
   - The member appointed by Plan Commission plus one other member must be residents of the unincorporated area under jurisdiction of Hagerstown zoning law
+
 
 **Hagerstown Police Department**
 
@@ -55,21 +60,25 @@ An inventory of current land uses in Hagerstown is useful in making future land 
 development ordinances.  Land uses are typically divided into several categories: residential, commercial and 
 business, industrial, public and quasi-public, farmland, and undeveloped land.
 
+
 **Residential**
 
 - Currently occupies the most land area in Hagerstown
 - Majority of housing is single-family detached units, developed into neighborhood blocks
 - Limited number of higher-density residences are available
 
+
 **Commercial**
 
 - Downtown Hagerstown and State Road 38 are primarily devoted to government and commercial uses
 - Commercial uses are focused in the downtown area, along with some segments east of town near State Road 1
 
+
 **Industrial**
 
 - Occupies most land area following residential uses
 - Three industrial parks are located in Hagerstown
+
 
 **Community**
 
