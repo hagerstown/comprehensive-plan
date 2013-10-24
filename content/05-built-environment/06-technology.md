@@ -1,3 +1,3 @@
-# Technology
+# DELETE THIS SECTION
 
 Copy here.
