@@ -8,7 +8,7 @@ will be set. As our community changes and develops, so too will the Comprehensiv
 In this section, you can find our revision policy for the Comprehensive Plan, as well as appendices which contain information
 relevant to our various goals and action plans.
 
-## Table of contents
+## Table of Contents
 
 - Plan Evaluation and Revision
 - Appendices
