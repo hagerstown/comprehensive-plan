@@ -7,7 +7,7 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 - Legislative and executive body for the town
 - Composed of five members
 - Four-year terms for members
-  - Staggered elections prevent an all-new council from taking office in any given year
+- Staggered elections prevent an all-new council from taking office in any given year
 
 
 **Town Manager**
