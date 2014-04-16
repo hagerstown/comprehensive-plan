@@ -1,3 +1,0 @@
-# DELETE THIS SECTION
-
-Copy here.

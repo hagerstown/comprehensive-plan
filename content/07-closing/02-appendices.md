@@ -1,3 +1,0 @@
-# Appendices
-
-Copy here.

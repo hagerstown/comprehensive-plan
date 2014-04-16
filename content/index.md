@@ -1,10 +1,9 @@
 # Welcome
+<a href="http://farm8.staticflickr.com/7396/10934757064_11c4204d8a_o.jpg" class="thumb" rel="fancy" style="float: right;"><img src="http://farm8.staticflickr.com/7396/10934757064_d71b816ee4_m.jpg" /></a>
 
-Welcome to the Hagerstown, Indiana Comprehensive Plan! 
+Welcome to Hagerstown's Comprehensive Plan. This plan is divided into several sections and subsections as described below.
 
-Hagerstown, Indiana is a town of approximately 2,000 happy people in East Central Indiana.  Located near the intersection of State Road 1 and State Road 38, ours is a vibrant and historic community that boasts a candy factory and a locally-famous smorgasbord, and is the hometown of notables such as Ralph Teetor, the inventor of cruise control, and Clark Wissler, the famed anthropologist.
+The first three are **quality of life**, **built environment**, and **planned economic development**. Within these topics you can find goals and action plans outlining Hagerstown's plan for moving into the future.
 
-Compiled by the Hagerstown Planning Commission, the Comprehensive Plan is meant to guide smart growth in our community. It is also a living document, for it is continually updated to reflect Hagerstown's immediate and long-term goals for the future.
-
-Use the navigation bar on the left to review our goals and action plans or to just learn a little more about Hagerstown's background and demographics.
+In the section titled **Background and Demographics** you will find information on the Indiana state **mandate** which empowers towns to plan; a brief **history** of the town of Hagerstown; information about **town government**; **community input** regarding the town's future, collected from public meetings and surveys; as well as **demographics** where you can find data on Hagerstown's residential and commercial makeup.
 
