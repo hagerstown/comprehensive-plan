@@ -1,9 +1,6 @@
 # Environmental Sustainability
 
-Sustainability refers to the managing of environmental, economic, and social development in ways that balance resources
-and needs, nature and humanity. Environmental sustainability satisfies basic human needs (clean air and water) and 
-conserves the natural, cultural, and historical environment while providing for managed growth and development, also known 
-as **Smart Growth**. 
+Sustainability refers to the managing of environmental, economic, and social development in ways that balance resources and needs, nature and humanity. Environmental sustainability satisfies basic human needs (clean air and water) and conserves the natural, cultural, and historical environment while providing for managed growth and development, also known as **Smart Growth**. 
 
 Smart Growth adds homes and jobs to a community while protecting and preserving environmental resources. Principles of Smart 
 Growth include: 

@@ -17,6 +17,7 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 - Hired by the Town Council 
 - Works on contractual basis to oversee daily functions of the town
 
+<a href="http://farm4.staticflickr.com/3781/10934752584_10bd5bda1d_o.jpg" class="thumb" rel="fancy" style="float:right;"><img src="http://farm4.staticflickr.com/3781/10934752584_b2e83efed1_m.jpg" /></a>
 
 **Clerk-Treasurer**
 
@@ -90,4 +91,3 @@ business, industrial, public and quasi-public, farmland, and undeveloped land.
 - Much of the land in Jefferson Township is considered prime farmland and used for agriculture
 
 
-<a href="http://farm4.staticflickr.com/3781/10934752584_10bd5bda1d_o.jpg" class="thumb" rel="fancy"><img src="http://farm4.staticflickr.com/3781/10934752584_b2e83efed1_m.jpg" /></a>

@@ -4,7 +4,10 @@ Workforce development initiatives are concerned with creating a better match bet
 
 ##Goals and Action Plans
 
--	**Maintain state-of-the-art technology in technical school programs**
+-   **Develop a local internship program with local businesses**
+-	**Ensure the availability of state-of-the-art technology in technical school programs**
   - Technical school programs prepare students with the needed skills to enter a technical field following high school (or technical school) graduation. In order to meet this goal, the technical schools should have equipment (including computers, CAD software, and machinery) that is comparable to the equipment used in industry. School-business partnerships may be able to help the schools obtain such equipment.
--	**Ensure all job seekers have adequate communication skills**
+-	**Make certain all job seekers have adequate communication skills**
   -	Job seekers include all unemployed persons in the workforce, people looking to enter the workforce, and people seeking career or job changes. Oral and written communication skills are highly valued by employers, from interpersonal communication to technical writing. High school and continuing adult education courses can provide the knowledge necessary for high-level verbal, written, and electronic communication.
+-	**Actively participate in the Certified Work Ready Communities program**
+  - The Certified Work Ready Communities program is administered by WorkOne.

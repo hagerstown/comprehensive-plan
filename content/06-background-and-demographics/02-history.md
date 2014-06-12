@@ -16,9 +16,6 @@ system which spanned seventy-six miles and was completed in 1847.  Today, many e
 on the name of Nettle Creek, including the Nettle Creek School Corporation and the Nettle Creek Gazette. 
 
 
-<div class="ph ph-map">**Context map including Hagerstown and the surrounding area.**</div>
-
-
 ##Early History
 
 The Treaty of Greenville between the federal government and the Native Americans of the Western Confederacy was signed 

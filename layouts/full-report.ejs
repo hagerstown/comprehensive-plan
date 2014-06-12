@@ -10,15 +10,6 @@
   </div>
 </header>
 
-<% site.pages.forEach(function(page) { %>
-<% if (!page.url.length) { %>
-<article class="main">
-  <div class="wrapper">
-    <%- page.body %>
-  </div>
-</article>
-<% } %>
-<% }); %>
 
 <% site.sections.forEach(function(section) { %>
 <section>

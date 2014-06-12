@@ -5,12 +5,12 @@ The unemployment rate of Wayne County has followed historical trends nationwide 
 The following graphs show the Most Common Industries where Hagerstown workers were employed during the past four years.  It can be seen that over 50% of employed men who live in Hagerstown worked in manufacturing, construction, or retail services. 
 
 
-<div class="ph ph-chart">Most Common Industries (Male)</div>
+  <a href="https://farm3.staticflickr.com/2908/14215557799_55d582b780_b.jpg" class="large-thumb" rel="fancy"><img src="https://farm3.staticflickr.com/2908/14215557799_55d582b780.jpg" /></a>
 
 The following graph shows that 50% of the employed women who live in Hagerstown worked in either Health Care or Educational Services.
 
-<div class="ph ph-chart">Most Common Industries (Female)</div>
+  <a href="https://farm6.staticflickr.com/5532/14215557919_1351a3802a_b.jpg" class="large-thumb" rel="fancy"><img src="https://farm6.staticflickr.com/5532/14215557919_1351a3802a.jpg" /></a>
 
 Workers in Hagerstown have shorter commutes than the average worker in the State of Indiana.  The following chart shows commute times from 2008.  The commute for over fifty percent of the workers is less than 15 minutes.
 
-<div class="ph ph-chart">Travel Time to Work</div>
+  <a href="https://farm4.staticflickr.com/3862/14398850661_40a568a414_b.jpg" class="large-thumb" rel="fancy"><img src="https://farm4.staticflickr.com/3862/14398850661_40a568a414.jpg" /></a>

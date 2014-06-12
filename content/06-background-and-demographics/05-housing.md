@@ -4,7 +4,7 @@ As of the 2010 census, Hagerstown has 751 households, of which 62% are families,
 Of the 751 occupied housing units in Hagerstown, 72.7% are owner-occupied, and 27.3% are occupied by renters. 
 
 
-<div class="ph ph-chart">Home Ownership</div>
+  <a href="https://farm6.staticflickr.com/5236/14215771917_17f68dc409_b.jpg" class="large-thumb" rel="fancy"><img src="https://farm6.staticflickr.com/5236/14215771917_17f68dc409.jpg" /></a>
 
 The majority of Hagerstown residents are native born Hoosiers. 
 Based on data for the entire 47346 zip code:
