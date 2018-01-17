@@ -4,12 +4,14 @@ Development of the retail and service sector was identified by residents as a cr
 
 ##Goals and Action Plans
 
+-	**Develop merchant association**
+  -	Create a co-op of marketing dollars to the benefit of local merchants. 
 -	**Provide job and business training for retail occupations and industries**
   -	Job training and entrepreneurship training in retail and service skills will encourage growth in these sectors. Hospitality training can also promote retail and service sector growth and develop Hagerstown’s existing niche in those areas. Management training for second shifts and training youths as clerks and cashiers would provide opportunities for downtown businesses to maintain longer and more consistent hours.
 -	**Market Hagerstown to prospective businesses and advertise the town’s labor force and business market**
   -	Hagerstown has many location and character assets which can be marketed to retail and service businesses. A marketing campaign could bring additional retail and service sector business to Hagerstown, increasing the non-residential tax base.
 -	**Encourage entrepreneurship in needed business areas**
-  -	Many of the locally-needed businesses could begin as entrepreneurial enterprises with the help of the Wayne County Economic Development agency. Bed and breakfasts could fill the need for overnight guest accommodations and encourage tourism. Child care facilities can be established as home-based businesses, provided the home meets state requirements for child care facility licensing. Business support services themselves, such as printing shops, accounting firms, and law firms, can also be home-based. 
+  -	Many of the locally-needed businesses could begin as entrepreneurial enterprises with the help of the Wayne County Economic Development agency. Bed and breakfasts could fill the need for overnight guest accommodations and encourage tourism. Child care facilities can be established as home-based businesses, provided the home meets state requirements for child care facility licensing. Business support services themselves, such as printing shops, accounting firms, and law firms, can also be home-based, per 151.102 Code of Ordinances. 
 -	**Increase pedestrian traffic on Main Street**
   -	Providing parking near downtown with safe, well-lighted sidewalks could encourage pedestrian traffic through downtown. Increased signage, with a consistent design, would increase the visibility of existing parking areas and pedestrian walkways.
 -	**Use vacant downtown buildings as retail and service incubators**

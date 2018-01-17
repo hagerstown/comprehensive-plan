@@ -5,5 +5,5 @@ Land use in Hagerstown is primarily residential.  With the exception of one subd
 ## Goals and Action Plans
 -	**Allow for some farm-based businesses**
   - Agricultural zones should also allow for some farm-related businesses.  Farm-related businesses are those involved in the transportation, processing, packaging, and distribution of agricultural products.
--	**Work with Wayne County EDC to develop a commercial or industrial park**
+-	**Work with Wayne County EDC to develop additional commercial or industrial parks**
   _ 

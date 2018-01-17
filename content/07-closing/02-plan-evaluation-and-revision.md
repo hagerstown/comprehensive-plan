@@ -8,7 +8,3 @@ It is recommended that the Hagerstown Plan Commission review the contents of the
 review, members may add relevant new goals and action plans. They may also strike completed goals. Completed goals should 
 be marked as such, and may be left on the website for up to two years. This will allow the Plan Commission, as well as 
 members of the community, to review past successes and Hagerstown's current trajectory.
-
-##Evaluation Procedures and Guidelines
-
-##Revision Procedures and Guidelines

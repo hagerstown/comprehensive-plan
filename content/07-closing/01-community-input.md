@@ -26,53 +26,54 @@ such as the IGA grocery store, Nettle Creek Hardware store, and the Hagerstown-J
 - One positive aspect of Hagerstown
 - One negative liability of Hagerstown
 
-Results of the survey were compiled and assessed by members of the Planning Commission.  The following conclusions 
-were drawn from survey results:
+Results of the survey were compiled and assessed by members of the Plan Commission. 
 
-**Survey Results**
 
 ##Public Meeting
 
-On June 12, 2013 a public workshop and open discussion was hosted by the Planning Commission.  Residents were 
+On June 12, 2013 a public workshop and open discussion was hosted by the Plan Commission.  Residents were 
 encouraged to give voice to their ideas, concerns, and aspirations regarding the future of Hagerstown.  The 
 meeting was held in The Meeting Place on Main Street and was moderated by Susie Ripley, who is an East Central 
-Community Liaison from the 
-Office of Community and Rural Affairs.  Attendees were asked to 
+Community Liaison from the Indiana Office of Community and Rural Affairs.  Attendees were asked to 
 respond to various questions during the meeting and to vote on their top five answers for each question.  
 Results of this meeting are summarized below.
 
-**What qualities does Hagerstown currently have?**
-- Library (11 votes)
-- Strong church community (11 votes)
-- Great schools (10 votes)
-- Strong fire, EMS, ambulance, and police departments (8 votes)
-- Great parks (7 votes)
-- Great restaurants (7 votes)
+**What qualities does Hagerstown currently have? (Top Responses)**
+- Library
+- Strong church community
+- Great schools
+- Strong fire, EMS, ambulance, and police departments
+- Great parks
+- Great restaurants
 
-**What opportunities does Hagerstown have for improvement?**
-- Career jobs and tech jobs (18 votes)
-- New infrastructure (water, sewer, electric, storm sewer) (14 votes)
-- Great sidewalks (8 votes)
-- Retirement community (7 votes)
-- Large YMCA (7 votes)
-- Small liberal arts college (7 votes)
-- Bike paths (6 votes)
+**What opportunities does Hagerstown have for improvement? (Top Responses)**
+- Career jobs and tech jobs
+- New infrastructure (water, sewer, electric, storm sewer)
+- Great sidewalks
+- Retirement community
+- Large YMCA
+- Small liberal arts college
+- Bike paths
 
 
 ## Acknowledgments
 
 Most importantly, we would like to thank the people of Hagerstown for their support and involvement in their community.
 
-We would also like to thank the *Hagerstown Planning Commission* for their time and dedication to this task, for their insights in creating a positive vision for the future of Hagerstown, and for facilitating this great undertaking. 
+We would also like to thank the *Hagerstown Plan Commission* for their time and dedication to this task, for their insights in creating a positive vision for the future of Hagerstown, and for facilitating this great undertaking. 
 
-### Planning Commission Team
+### Plan Commission Team
 
 - Brian Longbons, *President*
-- Nate Logston, *Vice President*
+- Shaun Lieberman, *Vice President*
+- Chris Lamar, *Member & Town Manager*
 - Becky Diercks, *Member*
-- Clarence Plankenhorn, *Member*
-- Bob Warner, *Member*
-- Shaun Lieberman, *Member*
-- Brian Clark, *Member*
-- Pete Schaffner, *Member*
 - Suzanne Huntsman, *Member*
+- Thera Logston, *Member*
+- Brandon Sanders *Member*
+- ---
+- Bob Warner, *Member & Town Manager (Ex)*
+- Brian Clark, *Member (Ex)*
+- Clarence Plankenhorn, *Member (Ex)*
+- Nate Logston, *Vice President (Ex)*
+- Pete Schaffner, *Member (Ex)*

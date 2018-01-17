@@ -3,6 +3,9 @@
 Historic architecture, new buildings, sidewalks, streets, lighting, and landscaping are all a part of the Hagerstown’s character.  Maintaining the appearance of downtown and residential neighborhoods will contribute to the overall aesthetic appeal of the town, projecting a positive image of the high quality of life in Hagerstown.  
 
 ##Goals and Action Plans
+<a href="https://farm9.staticflickr.com/8680/16501502308_0e04e52e30_b.jpg" class="thumb" style="float: right" rel="fancy"><img src="https://farm9.staticflickr.com/8680/16501502308_0e04e52e30_m.jpg" /></a>
+-   **Maintain and occupy our historic buildings**
+  - The Hagerstown I.O.O.F. building in listed on the National Register of Historic Places.
 -	**Encourage new development to be consistent with existing architecture and design**
   - Historically, small town design was intended to produce recognizable districts, paths and landmarks. The absence of these recognizable elements creates confusion about how the town “fits together” and lacks identity and uniqueness. New buildings should avoid abrupt changes in height, bulk or character.
 -	**Develop brochure detailing Hagerstown character elements**

@@ -8,7 +8,7 @@ The Nettle Creek School Corporation, consisting of Hagerstown Elementary and Hag
 
 ##Goals and Action Plans
 
--	**Develop a method to build a profile from empirical data and individual feedback gathered from former students to determine what has been educationally effective, what has not and how it has enhanced or hindered their success.**
+-	**Develop a method to build a profile from empirical data as well as individual feedback gathered from former students to determine what has been educationally effective, what has not and how it has enhanced or hindered their success.**
 
 -	**Work with the school board, superintendent and faculty to fulfill the Nettle Creek School Corporation’s visions and goals.** 
 

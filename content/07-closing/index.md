@@ -2,8 +2,7 @@
 
 Thank you for taking the time to visit Hagerstown's Comprehensive Plan website. 
 
-Planning is a never-ending process; as old goals are met and action plans completed, new challenges will arise and new goals
-will be set. As our community changes and develops, so too will the Comprehensive Plan.
+Planning is a never-ending process; as old goals are met and action plans are completed, new challenges will arise and new goals will be set. As our community changes and develops, so too will the Comprehensive Plan.
 
 In this section, you will find the methods used for obtaining community input for this plan as well as our review and revision policy.
 

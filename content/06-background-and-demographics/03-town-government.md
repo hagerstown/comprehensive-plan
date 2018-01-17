@@ -15,7 +15,7 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 - Administrative head of town management
 - Holds limited executive powers
 - Hired by the Town Council 
-- Works on contractual basis to oversee daily functions of the town
+- Oversees daily functions of the town
 
 <a href="http://farm4.staticflickr.com/3781/10934752584_10bd5bda1d_o.jpg" class="thumb" rel="fancy" style="float:right;"><img src="http://farm4.staticflickr.com/3781/10934752584_b2e83efed1_m.jpg" /></a>
 
@@ -29,11 +29,14 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 **Plan Commission**
 
 - Planning and zoning advisory board of the town
-- Composed of seven members
+- Composed of nine members
   - Three members are from town government
-  - Four members are appointed citizens
-  - No more than two citizen members may be from the same political party
-  - Citizen members appointed to four-year terms
+  - Four members are appointed citizens from inside town limits
+    - No more than two citizen members may be from the same political party
+    - Citizen members appointed to four-year terms
+  - Two members are appointed from the two mile fringe around the town
+    - Must be from differing political parties
+    - Appointed to four-year terms
 
 
 **Board of Zoning Appeals**
@@ -59,7 +62,7 @@ Hagerstown government consists of the Town Council, the Town Manager, the Clerk-
 
 An inventory of current land uses in Hagerstown is useful in making future land use decisions and changes to 
 development ordinances.  Land uses are typically divided into several categories: residential, commercial and 
-business, industrial, public and quasi-public, farmland, and undeveloped land.
+business, industrial, community, farmland, and undeveloped land.
 
 
 **Residential**

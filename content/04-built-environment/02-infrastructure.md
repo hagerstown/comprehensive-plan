@@ -7,14 +7,13 @@ Infrastructure is an important component of economic development for all sectors
 
 ##Goals and Action Plans
 -	**Water Infrastructure & Equipment Improvement Plan**
-  - Upgrade entire meter system to radio read meters
-  - Upgrade meter reading software
   - Develop program to start replacing sections of waterlines in Town
   - Follow replacement schedules for new equipment purchases
   - Install new water lines along SR 1 to I-70
   - Install new water lines along SR 38 to the Henry County line
   - Install new water lines to the airport
   
+<a href="https://farm9.staticflickr.com/8652/16687756741_02f90b5b61_o.jpg" class="thumb" rel="fancy" style="float: right;"><img src="https://farm9.staticflickr.com/8652/16687756741_6a05f2a80c_m.jpg" /></a>
 -	**Electric Infrastructure & Equipment Improvement Plan**
   - Maintain Tree trimming schedule
   - Develop program to start replacing/upgrading sections of electric wiring annually
@@ -23,21 +22,19 @@ Infrastructure is an important component of economic development for all sectors
   - Follow replacement schedules for new equipment purchases
   
 -	**Street Infrastructure & Equipment Improvement Plan**
-  - Replace curbs/sidewalks with ADA compliant ramps at 2 intersections annually
+  - Replace curbs/sidewalks with ADA compliant ramps at 2 intersections annually &#9733;[Main Street intersections completed](/appendices/completed-objectives/)
   - Continue with annual paving program
   - Replace 8 alley intersections annually
-  - Build sidewalk to park
+  - Build sidewalk to park &#9733;[Grant Received](/appendices/completed-objectives/)
   - Continue sidewalk replacement program
   - Tear out and replace North Washington Street
   - Extend Swoveland Road to the Airport 
   - Follow replacement schedules for new equipment purchases
   
+<a href="https://farm9.staticflickr.com/8576/16066764724_e8cbe0ed48_z.jpg" class="thumb" rel="fancy" style="float: right;"><img src="https://farm9.staticflickr.com/8576/16066764724_e8cbe0ed48_m.jpg" /></a>
 -	**Wastewater Infrastructure & Equipment Improvement Plan**
   - Develop program to start replacing sections of sewer annually
-  - Improve Dana lift station accessibility
   - Continue with televising project of sewers
-  - Upgrade meter reading software
-  - Purchase new sewer jet/vac truck
   - Follow replacement schedules for new equipment purchases
   - Install new sewer lines along SR 1 to I-70
   - Install new sewer lines along SR 38 to the Henry County line
